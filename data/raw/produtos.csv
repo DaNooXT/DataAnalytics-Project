@@ -1,0 +1,1001 @@
+produto_id,nome,categoria,marca,preco,estoque,data_cadastro
+1,Mouse Gamer,Fonte,Logitech,9598.61,12,2025-01-21
+2,Fonte 650W,,Logitech,6340.39,15,2025-01-21
+3,Headset Gamer,SSD,LG,6749.15,-10,2023-03-17
+4,Memória 16GB,Headset,Dell,5062.19,47,2024-07-29
+5,Fonte 650W,HD,Kingston,mil,193,2023-01-29
+6,SSD 240GB,Memória,Lenovo,706.45,116,2024-07-17
+7,Headset Gamer,Fonte,Samsung,5485.19,189,2022-12-17
+8,Fonte 750W,Teclado,Corsair,3687.27,236,2023-10-27
+9,RTX 4060,Teclado,Kingston,11644.48,117,2023-10-07
+10,SSD 1TB,Gabinete,AMD,7498.48,452,2025-01-08
+11,Mouse Gamer,Monitor,Redragon,8777.1,459,2022-04-07
+12,Monitor 24,Placa Mãe,Intel,2309.56,81,2024-12-19
+13,Core i5,Headset,Corsair,-100,482,2023-11-28
+14,Impressora Laser,Impressora,Samsung,mil,232,2023-09-04
+15,Core i5,Impressora,AMD,7624.79,101,2022-01-02
+16,HD 2TB,Teclado,Kingston,7339.31,57,2022-06-11
+17,Mouse Gamer,Placa de Vídeo,AMD,7300.14,35,2022-12-05
+18,Impressora Laser,Teclado,Logitech,13089.05,216,2023-10-01
+19,Monitor 27,Monitor,Asus,10081.87,191,2022-02-13
+20,Notebook Office,Monitor,AMD,-100,112,2023-05-03
+21,Core i7,Teclado,Redragon,7291.51,276,2024-08-26
+22,RTX 4070,Gabinete,Dell,2872.34,49,2022/07/21
+23,RX 7600,Mouse,Lenovo,12012.88,55,2024-08-05
+24,Monitor 27,notebook,Samsung,13850.52,226,2023-04-30
+25,Mouse Sem Fio,Memória,Lenovo,7294.9,109,2024-07-20
+26,Headset Gamer,Teclado,Lenovo,10454.94,374,2023-03-22
+27,Ryzen 5,Webcam,AMD,mil,,99/99/9999
+28,SSD 240GB,Impressora,Kingston,-100,95,2023-05-20
+29,Ryzen 7,SSD,HP,615.33,41,2023-10-06
+30,Impressora Laser,Notebook,Intel,5948.87,343,2025-02-27
+31,Memória 16GB,Impressora,HP,1117.45,109,2024-01-27
+32,Fonte 750W,Fonte,AOC,6584.0,278,2025-02-09
+33,Monitor 27,Mouse,Lenovo,9957.56,480,2023-08-01
+34,Ryzen 7,Impressora,AOC,10769.83,104,2022-04-15
+35,Fonte 750W,Mouse,Logitech,mil,141,2024-06-23
+36,Headset Gamer,Processador,Dell,6426.75,4,2024-01-27
+37,Notebook Office,Teclado,Corsair,mil,65,2023-05-27
+38,Fonte 650W,Impressora,HP,5318.11,286,2022-11-29
+39,Memória 8GB,Memória,Redragon,12165.36,451,2023-05-24
+40,SSD 240GB,Impressora,Intel,11814.87,cem,2023-12-18
+41,RTX 4060,Webcam,Samsung,11934.28,116,2023-07-26
+42,Notebook Gamer,SSD,LG,7650.9,347,2025-04-04
+43,Memória 8GB,Processador,Samsung,3996.69,55,2024-02-28
+44,Gabinete RGB,Gabinete,Logitech,2867.38,,2023-02-08
+45,Gabinete RGB,Gabinete,Lenovo,1068.21,340,2024-11-04
+46,Teclado Mecânico,Memória,Corsair,6137.73,206,2022-12-23
+47,Teclado Mecânico,Placa Mãe,Kingston,4528.23,280,2023-10-22
+48,Webcam HD,Monitor,Lenovo,6643.55,109,2024-11-21
+49,Gabinete RGB,Headset,HP,9296.53,47,10-29-2022
+50,Fonte 750W,Gabinete,Logitech,14759.36,cem,2024-02-26
+51,Impressora Laser,Headset,Acer,3674.89,335,2023-03-25
+52,Monitor 27,Headset,Intel,14370.33,265,2024-12-23
+53,Webcam HD,Memória,AOC,8939.88,486,2025-01-27
+54,SSD 240GB,SSD,Redragon,2404.19,441,2024-12-03
+55,Memória 8GB,Processador,Samsung,mil,225,2022-10-11
+56,Memória 8GB,Memória,Dell,5757.87,cem,2023-02-28
+57,Impressora Laser,Placa de Vídeo,Dell,5854.36,394,2023-12-22
+58,Webcam HD,Headset,Kingston,5862.0,456,2023-03-28
+59,RTX 4060,Webcam,Intel,mil,248,2022-09-19
+60,Notebook Gamer,Memória,LG,8021.17,464,2024-08-03
+61,Impressora Laser,SSD,Redragon,3917.14,167,2024-05-13
+62,SSD 240GB,Headset,Corsair,1246.96,cem,2022-03-24
+63,SSD 240GB,Fonte,Samsung,14245.18,102,2025-03-01
+64,Fonte 650W,Gabinete,Samsung,6986.21,131,2022-12-02
+65,RTX 4060,Gabinete,HP,1639.32,13,2022-06-05
+66,Gabinete RGB,Monitor,Redragon,12461.96,124,2025-03-05
+67,Memória 8GB,hd,AOC,5221.11,,2024-09-30
+68,Mouse Gamer,Gabinete,AMD,14412.6,325,2023-07-08
+69,Webcam HD,HD,AOC,13795.87,396,2023-05-18
+70,Core i7,Memória,Asus,1318.21,451,2022-02-28
+71,Memória 8GB,Placa Mãe,Logitech,4888.71,249,2023-07-20
+72,Ryzen 5,Teclado,Logitech,7759.08,97,2024-09-02
+73,Headset Gamer,Fonte,Kingston,mil,405,2024-01-26
+74,Memória 16GB,SSD,Lenovo,7973.21,217,2023-05-30
+75,Impressora Laser,Teclado,HP,10824.84,161,2024-09-18
+76,Monitor 27,SSD,HP,8852.01,389,2024-01-10
+77,Core i5,Mouse,Corsair,231.94,-10,2024-10-02
+78,Mouse Sem Fio,SSD,AOC,203.74,145,2024-09-05
+79,Core i7,Monitor,HP,-100,251,2022-08-31
+80,Ryzen 7,Impressora,Intel,6254.29,305,2023-09-01
+81,Monitor 27,Teclado,Corsair,14850.67,,2023-03-09
+82,RTX 4070,Placa Mãe,Intel,1236.19,-10,2023/08/20
+83,SSD 1TB,Fonte,Kingston,10610.2,-10,2023-02-10
+84,Mouse Gamer,Notebooks,Redragon,8177.54,331,2023-09-22
+85,Headset Gamer,Memória,Lenovo,12367.12,471,2024-10-21
+86,Fonte 650W,Monitor,HP,,306,2025-03-24
+87,Notebook Office,Mouse,Intel,330.77,391,2024-11-28
+88,Ryzen 5,Placa de Vídeo,Asus,13742.77,92,2024-04-16
+89,Ryzen 5,Memória,AOC,10058.6,439,31/01/2025
+90,Ryzen 7,Notebook,Corsair,4731.47,165,2025-01-16
+91,Fonte 750W,Notebook,HP,831.98,265,2023-07-01
+92,Notebook Gamer,Placa Mãe,Redragon,13916.54,224,2023-05-06
+93,Monitor 27,Monitor,Corsair,4675.04,7,2022-11-12
+94,Ryzen 5,Teclado,Intel,10754.72,260,2025-02-02
+95,Monitor 24,Headset,AOC,2875.34,306,2024-04-29
+96,HD 2TB,Placa Mãe,Corsair,11820.01,136,2024-09-29
+97,Core i5,Impressora,Asus,6709.28,247,2023-01-22
+98,Notebook Office,Placa de Vídeo,Logitech,3597.31,196,2024-02-20
+99,Notebook Office,Placa Mãe,Asus,9962.06,420,2022-07-25
+100,RTX 4070,Mouse,Samsung,6615.79,-10,2024-08-19
+101,Memória 8GB,Webcam,AMD,3990.04,319,2024-02-18
+102,Notebook Office,Teclado,Corsair,9409.45,454,2023-08-12
+103,Headset Gamer,Placa de Vídeo,LG,11206.56,222,2023-09-06
+104,Mouse Gamer,Memória,Kingston,mil,407,2023-01-04
+105,Ryzen 5,Mouse,HP,1202.95,445,2024-08-02
+106,Gabinete RGB,Monitor,Intel,,341,2023-12-09
+107,HD 2TB,Memória,AOC,4501.33,492,2024-09-16
+108,HD 2TB,hd,Lenovo,5732.84,183,2022-01-17
+109,Webcam HD,Impressora,Lenovo,10293.28,381,2023-04-17
+110,Impressora Laser,Fonte,Corsair,5297.77,325,2022-10-08
+111,Webcam HD,Impressora,Lenovo,,cem,2023-11-01
+112,Memória 16GB,Impressora,Lenovo,2651.09,67,2022-12-03
+113,Memória 8GB,Placa de Vídeo,Samsung,12373.85,246,2022-10-16
+114,Core i5,Headset,Acer,3399.71,346,2022-01-29
+115,Core i7,Fonte,Asus,1871.36,188,2022-08-10
+116,Fonte 650W,Monitor,Corsair,7082.72,317,2024-08-08
+117,HD 2TB,Monitor,Samsung,4546.81,-10,2023-04-26
+118,Headset Gamer,Memória,Kingston,2052.25,232,2022-11-13
+119,SSD 1TB,mouse,HP,9830.73,426,2024-06-27
+120,Core i5,Fonte,Asus,3556.97,185,2022-05-05
+121,Monitor 24,Fonte,Corsair,2863.33,62,2022/02/13
+122,Impressora Laser,Placa Mãe,HP,3668.66,64,2023-04-23
+123,Mouse Gamer,Processador,Lenovo,2230.36,461,2022-12-24
+124,Notebook Gamer,Notebook,LG,R$500,67,2024-05-12
+125,Core i7,Processador,HP,11190.07,243,2022-03-30
+126,Notebook Gamer,Placa video,AOC,13633.1,337,2024-04-02
+127,Memória 8GB,Monitor,LG,1637.27,-10,2023-07-18
+128,Ryzen 7,Processador,Kingston,8788.76,364,2024-05-31
+129,Core i5,Teclado,Acer,10532.66,436,2024-07-13
+130,Monitor 27,HD,Corsair,6218.93,423,2023-06-07
+131,Monitor 24,Monitor,Logitech,2306.53,472,2024-02-03
+132,Gabinete RGB,HD,AOC,8354.43,300,2024-05-16
+133,Monitor 27,Teclado,LG,10821.49,495,2024-09-14
+134,SSD 1TB,Headset,Acer,1641.11,432,2025-02-22
+135,Fonte 650W,Webcam,Logitech,12280.03,314,2023/07/02
+136,Mouse Sem Fio,Placa Mãe,Corsair,10546.43,158,31/03/2024
+137,Memória 8GB,SSD,Logitech,1394.53,271,2023-10-27
+138,Impressora Laser,Fonte,Samsung,8522.55,43,2023-07-12
+139,Impressora Laser,HD,Acer,6371.74,310,2022-08-16
+140,SSD 240GB,Placa Mãe,Dell,10183.72,249,2022-01-16
+141,Memória 8GB,Placa de Vídeo,Logitech,14180.95,392,2024-05-31
+142,Gabinete RGB,Monitor,Acer,5715.51,360,2022-03-28
+143,Core i7,Fonte,Acer,6907.12,39,2023-08-16
+144,RX 7600,Impressora,Asus,332.43,166,2022-06-30
+145,RTX 4060,Gabinete,Asus,1605.83,223,2023-03-30
+146,Teclado Mecânico,HD,Asus,2538.63,261,2022-10-30
+147,Impressora Laser,Mouse,Redragon,2213.73,101,2024-10-08
+148,Core i7,Placa Mãe,Asus,8464.76,296,2023-10-10
+149,Core i7,NOTEBOOK,Lenovo,1042.93,226,2024-08-03
+150,Monitor 24,Processador,Acer,872.21,425,2024-08-05
+151,Core i7,HD,Kingston,14314.39,378,2024-09-01
+152,Memória 8GB,Monitor,AMD,14366.68,230,31/02/2025
+153,Memória 16GB,Memória,Acer,14864.97,268,2023-11-24
+154,Core i5,SSD,Lenovo,804.44,-10,2022-11-04
+155,Fonte 750W,Memória,LG,8749.44,72,2022-06-23
+156,Headset Gamer,Gabinete,Corsair,5662.66,405,2024-12-14
+157,Mouse Sem Fio,HD,Redragon,10063.43,260,2024-09-22
+158,Core i5,Impressora,AMD,-100,79,2022-03-19
+159,Mouse Sem Fio,Gabinete,Redragon,13148.36,316,2022-12-06
+160,RX 7600,Headset,Logitech,674.51,186,2024-07-08
+161,Teclado Mecânico,Placa Mãe,Intel,3602.74,494,2024-08-03
+162,Teclado Mecânico,Mouse,AOC,11676.3,257,31/02/2025
+163,Ryzen 7,SSD,Samsung,13114.27,283,2022-11-25
+164,SSD 240GB,Impressora,Asus,13581.49,75,2022-02-24
+165,Memória 16GB,HD,Samsung,5958.88,191,2023-11-18
+166,Mouse Gamer,Placa de Vídeo,Intel,2081.24,146,2022-01-11
+167,Webcam HD,Memória,Samsung,304.68,110,2023-08-14
+168,RX 7600,Placa video,Kingston,1845.29,122,99/99/9999
+169,Fonte 650W,Placa Mãe,Acer,8634.21,367,2023-01-19
+170,Core i5,Processador,AMD,1302.5,499,2022-02-11
+171,Webcam HD,NOTEBOOK,Asus,7062.62,325,2023-05-09
+172,Mouse Gamer,mouse,AOC,9431.29,395,2022-12-25
+173,Mouse Gamer,Placa video,Dell,10276.54,356,2023-08-24
+174,Core i5,Notebook,Redragon,mil,453,2023-01-27
+175,Monitor 27,Memória,Acer,12934.84,24,2024-06-19
+176,Memória 16GB,Processador,Lenovo,5811.94,498,2022-06-19
+177,HD 2TB,Monitor,Asus,1202.33,308,2023-08-29
+178,RX 7600,mouse,Kingston,9047.27,218,2024-06-09
+179,Webcam HD,Notebook,LG,,485,16/06/2024
+180,Core i7,Notebooks,Corsair,3555.21,330,2024-07-10
+181,RTX 4060,SSD,HP,R$500,390,08-21-2022
+182,Impressora Laser,Placa de Vídeo,HP,7495.68,198,2023-08-08
+183,RX 7600,Gabinete,Intel,14979.46,102,2022-06-29
+184,Core i5,Impressora,Lenovo,14514.07,163,2022-11-19
+185,SSD 240GB,Teclado,Redragon,13911.32,326,2022-10-12
+186,Core i5,Impressora,Samsung,7420.45,184,2022-05-15
+187,RTX 4070,Monitor,LG,14993.93,368,2023-10-12
+188,Impressora Laser,Placa Mãe,LG,6760.62,348,2022-09-22
+189,HD 2TB,HD,Logitech,13662.47,28,2023-04-07
+190,Fonte 750W,SSD,LG,14114.74,-10,2023-09-13
+191,Mouse Gamer,Placa Mãe,Logitech,1419.56,328,2023-11-23
+192,Fonte 750W,SSD,Corsair,8463.0,422,2023-03-08
+193,HD 2TB,Headset,Redragon,mil,327,2024-04-11
+194,RX 7600,Placa Mãe,LG,1113.14,30,2023-10-03
+195,Impressora Laser,Processador,Samsung,4803.36,440,2023-10-16
+196,HD 2TB,Webcam,Kingston,1855.38,230,2024-05-06
+197,Webcam HD,Headset,LG,12982.31,81,2024-10-17
+198,Ryzen 7,Teclado,HP,7012.89,cem,2025-04-09
+199,Gabinete RGB,Processador,Dell,777.1,253,2022-08-09
+200,Notebook Office,Placa Mãe,AMD,13239.19,372,2023-02-03
+201,SSD 1TB,Placa Mãe,Corsair,4343.25,197,2022-09-01
+202,Memória 16GB,Teclado,Kingston,1468.29,191,2024-11-08
+203,Ryzen 5,Mouse,Kingston,623.02,19,2024-11-21
+204,Webcam HD,Placa Mãe,Asus,13971.9,163,2024-11-04
+205,Notebook Gamer,Fonte,Samsung,7994.45,362,2024-05-03
+206,Fonte 650W,Fonte,Redragon,11955.39,371,2025-03-30
+207,Webcam HD,Webcam,Acer,10826.57,298,2022-10-30
+208,Notebook Gamer,Memória,LG,3648.1,293,2024-04-25
+209,Webcam HD,Gabinete,LG,6167.45,396,2024-11-28
+210,Mouse Sem Fio,Processador,Asus,4889.24,339,2025-01-23
+211,SSD 1TB,Teclado,HP,11584.41,369,2023-07-26
+212,Headset Gamer,Gabinete,Intel,3388.51,498,2023-10-12
+213,Monitor 27,Processador,Acer,8416.1,478,2024-03-19
+214,Monitor 24,Placa de Vídeo,Corsair,14320.04,,2023-06-10
+215,Headset Gamer,Monitor,Kingston,3225.52,423,2023-05-06
+216,Monitor 27,Gabinete,Intel,10054.11,271,2022-07-25
+217,RTX 4070,Impressora,Intel,2079.26,493,2024-09-04
+218,Impressora Laser,Placa Mãe,HP,11343.55,147,2024-12-31
+219,Mouse Sem Fio,Notebook,AOC,12757.99,19,2024-03-24
+220,Notebook Office,NOTEBOOK,Asus,2810.95,383,2023-08-06
+221,Ryzen 7,Teclado,Redragon,9626.86,268,2022-08-19
+222,Webcam HD,SSD,Kingston,10972.17,331,2023-01-31
+223,Memória 8GB,Fonte,Samsung,12845.07,459,2023-01-14
+224,SSD 240GB,SSD,Asus,7172.26,479,2023-09-11
+225,Notebook Office,Placa de Vídeo,Lenovo,8601.7,133,2022-11-24
+226,Headset Gamer,Impressora,Lenovo,7547.76,458,2024-01-23
+227,Fonte 650W,Gabinete,AMD,3302.55,68,2024-08-22
+228,Impressora Laser,Headset,Samsung,12033.88,422,2024-12-12
+229,Core i5,Teclado,Kingston,10562.42,39,2025-01-04
+230,Headset Gamer,Monitor,AMD,4935.2,266,2024-07-01
+231,Core i5,Headset,Lenovo,6812.42,262,2022-02-14
+232,Memória 16GB,Processador,Dell,12250.47,cem,2022-05-22
+233,Impressora Laser,Gabinete,Corsair,7091.63,146,2024-05-10
+234,RTX 4060,Fonte,AOC,13372.18,229,2025-01-09
+235,Ryzen 7,Teclado,AOC,12907.09,60,2022-01-08
+236,Core i5,Teclado,HP,14677.79,237,2024-08-01
+237,Notebook Office,Memória,Kingston,4149.23,479,2022-02-02
+238,Notebook Office,Teclado,AMD,-100,304,2023-03-21
+239,Webcam HD,Placa Mãe,Kingston,11645.43,71,2023-10-19
+240,SSD 1TB,Notebooks,Corsair,13146.35,338,2024-05-24
+241,Ryzen 7,Memória,Acer,722.32,176,2022-11-02
+242,HD 2TB,Mouse,Redragon,2774.51,275,2024-08-06
+243,RTX 4060,Teclado,Asus,8444.54,495,2022-06-11
+244,Notebook Office,Fonte,Kingston,12710.06,47,2022-03-22
+245,Teclado Mecânico,Webcam,Asus,2838.69,389,2023-09-13
+246,Webcam HD,Placa de Vídeo,HP,249.7,479,2023-02-23
+247,Core i5,SSD,Lenovo,3605.18,164,2024-01-07
+248,Impressora Laser,Impressora,HP,7469.21,50,2024-01-30
+249,SSD 1TB,Placa Mãe,Kingston,704.82,442,2024-05-05
+250,Ryzen 5,Fonte,Asus,2958.95,117,2023-06-12
+251,Mouse Sem Fio,HD,LG,7339.54,370,2022-10-14
+252,Notebook Office,Webcam,AOC,7334.98,469,2022-06-02
+253,SSD 240GB,Notebooks,Dell,R$500,391,2023-03-24
+254,Ryzen 5,Notebook,Dell,5610.55,316,2024-12-25
+255,HD 2TB,hd,Redragon,197.53,271,2023-01-03
+256,SSD 1TB,SSD,Redragon,1462.78,76,31/02/2025
+257,Gabinete RGB,Monitor,Corsair,6895.79,124,2022-03-06
+258,Headset Gamer,Placa de Vídeo,AOC,5701.38,282,2024-06-07
+259,Ryzen 7,Teclado,HP,4982.43,500,2025-03-06
+260,Core i5,Notebook,LG,717.5,38,10-07-2023
+261,Monitor 24,Placa Mãe,HP,8813.8,385,2025-03-06
+262,Webcam HD,Gabinete,Logitech,5849.57,459,2022-06-10
+263,Monitor 24,Headset,Kingston,14615.36,27,2024-03-23
+264,Ryzen 5,Processador,Acer,4909.12,324,2024-06-03
+265,SSD 240GB,Monitor,Lenovo,8796.41,194,2022-11-12
+266,Monitor 27,SSD,Intel,11762.68,78,2024-01-08
+267,Core i5,Monitor,Dell,1551.43,44,2022-07-03
+268,Notebook Gamer,Memória,Redragon,1414.1,306,2022-06-23
+269,Gabinete RGB,Mouse,Lenovo,8401.86,500,2023-09-09
+270,Ryzen 5,HD,Lenovo,2206.1,85,2023-05-21
+271,HD 2TB,hd,Asus,7447.12,315,2024-02-18
+272,Fonte 750W,Mouse,Lenovo,4956.53,171,2023-10-19
+273,Memória 8GB,Gabinete,Corsair,10435.48,245,2024-10-02
+274,RTX 4060,Impressora,Kingston,11733.98,166,2023-02-14
+275,RX 7600,Teclado,Intel,8193.52,,2023-08-20
+276,Ryzen 5,SSD,HP,1056.0,434,2023-06-02
+277,Fonte 650W,Memória,AMD,10734.24,404,2024-11-03
+278,Memória 16GB,Headset,AMD,13047.11,214,2022-06-24
+279,Notebook Office,Fonte,Corsair,3738.5,340,2024-03-29
+280,SSD 240GB,Processador,AMD,4987.32,cem,2025-04-03
+281,Core i7,Mouse,Asus,3331.06,191,2022-02-20
+282,Webcam HD,SSD,Asus,4445.57,471,2024-07-21
+283,Headset Gamer,Monitor,Lenovo,7826.3,178,2022-04-02
+284,Mouse Sem Fio,Gabinete,HP,1743.98,434,2024-11-22
+285,RTX 4060,Mouse,Corsair,2418.83,286,2024-06-04
+286,RTX 4060,,HP,11066.08,452,2023-07-25
+287,Core i5,HD,HP,12134.77,32,2024-07-26
+288,Fonte 650W,Memória,Kingston,10067.11,250,2022-08-22
+289,HD 2TB,Placa Mãe,Samsung,12685.86,316,2022-10-02
+290,Ryzen 7,Placa Mãe,LG,3593.82,59,2025-03-23
+291,Mouse Sem Fio,Placa de Vídeo,Lenovo,2802.59,325,2022-10-15
+292,Ryzen 5,Webcam,Acer,mil,317,2025-02-24
+293,RX 7600,Monitor,Kingston,7434.65,350,2022-03-05
+294,Mouse Sem Fio,Placa Mãe,Logitech,3323.53,16,2024-10-11
+295,Memória 16GB,Headset,Dell,1715.9,58,2024-06-22
+296,SSD 240GB,Notebook,Intel,14846.84,52,2023-06-23
+297,SSD 240GB,Gabinete,Kingston,12254.59,224,2023-12-20
+298,Teclado Mecânico,Headset,Dell,9161.72,219,2025-03-13
+299,HD 2TB,SSD,AOC,4230.65,275,2024-11-19
+300,RTX 4070,SSD,AOC,10195.9,48,2022-09-17
+301,Impressora Laser,Memória,Intel,2007.71,74,2022-10-19
+302,RTX 4060,SSD,Logitech,4045.38,-10,2024-01-26
+303,RX 7600,Gabinete,Asus,-100,297,2022-05-10
+304,SSD 1TB,SSD,Asus,5977.78,495,2025-01-25
+305,Impressora Laser,NOTEBOOK,Corsair,8500.81,248,07-30-2024
+306,Headset Gamer,Impressora,Corsair,6630.46,0,2023-09-11
+307,Monitor 24,Impressora,Corsair,13992.23,140,2022/12/05
+308,Headset Gamer,Teclado,Intel,10895.31,386,2022-06-09
+309,Monitor 27,Memória,Logitech,3408.34,cem,2022-09-28
+310,Memória 8GB,SSD,LG,3449.62,45,2024-02-23
+311,Monitor 24,Notebook,Kingston,11302.3,68,2022-12-03
+312,Fonte 650W,Webcam,HP,10842.03,321,2022-06-27
+313,RTX 4070,Mouse,HP,2117.4,63,2023-07-22
+314,Impressora Laser,Notebook,AOC,3737.54,307,2023-09-10
+315,Notebook Office,Headset,HP,9111.76,96,2024-10-10
+316,Notebook Gamer,Impressora,Asus,3631.4,326,2022-09-28
+317,Impressora Laser,Headset,Samsung,12587.82,215,2022-02-04
+318,RTX 4060,Fonte,Logitech,-100,110,2024-10-23
+319,Fonte 650W,Monitor,Lenovo,6365.16,205,2022-06-11
+320,Core i7,Webcam,Corsair,3063.9,413,2022-05-16
+321,RTX 4070,Placa Mãe,Kingston,6573.54,-10,2022-04-23
+322,Headset Gamer,Placa video,Asus,11130.57,-10,2024-12-07
+323,Impressora Laser,Gabinete,Samsung,12341.15,132,2022-03-02
+324,Ryzen 7,Placa de Vídeo,AOC,-100,268,2025-03-06
+325,Webcam HD,Gabinete,AMD,2376.5,395,06/01/2022
+326,Mouse Sem Fio,Webcam,Dell,3683.38,241,2025-02-06
+327,RTX 4070,HD,Lenovo,10716.03,335,2022-06-09
+328,Ryzen 7,Memória,Samsung,1808.63,344,2024-08-10
+329,Notebook Gamer,SSD,Kingston,11607.44,159,2023-09-15
+330,Impressora Laser,Gabinete,AMD,3653.91,188,2023-05-18
+331,Headset Gamer,HD,Dell,13987.32,12,2024-02-10
+332,RTX 4070,Notebook,LG,10913.68,53,2023-07-28
+333,Memória 16GB,Gabinete,Samsung,13820.69,459,2025-04-04
+334,Notebook Office,Mouse,HP,2020.04,419,2023-08-21
+335,Memória 8GB,SSD,HP,4738.83,410,2022-06-02
+336,Mouse Sem Fio,HD,Acer,2058.96,394,2022-09-05
+337,Monitor 27,Headset,Corsair,14470.23,106,2023-09-16
+338,Mouse Gamer,Teclado,Asus,10459.23,20,2024-03-22
+339,RTX 4060,Processador,Logitech,10164.21,133,2025-01-31
+340,Notebook Office,Teclado,LG,6941.41,411,2023-02-10
+341,Core i7,Webcam,Samsung,5596.15,322,2022-02-14
+342,Memória 8GB,Placa de Vídeo,Dell,2982.3,330,2022-12-11
+343,RTX 4070,Teclado,LG,6508.68,,2023-07-18
+344,Fonte 750W,Memória,AMD,13253.69,17,2024/09/08
+345,Ryzen 7,Headset,AMD,5757.57,214,2022-02-09
+346,Memória 16GB,Processador,Asus,11733.1,183,2024-03-06
+347,Impressora Laser,Headset,Intel,410.42,305,2024-12-20
+348,Gabinete RGB,Processador,AOC,8768.15,119,2022-04-25
+349,Memória 16GB,Webcam,LG,14218.08,294,2022-12-27
+350,Notebook Gamer,HD,Kingston,4783.71,377,2025-02-28
+351,Ryzen 5,Mouse,Intel,14226.56,428,2022-03-19
+352,Teclado Mecânico,HD,Logitech,,,2022-12-30
+353,Mouse Gamer,Webcam,AMD,R$500,165,2024-01-18
+354,Memória 8GB,Mouse,LG,5616.39,482,2024-06-13
+355,Core i5,Impressora,Kingston,14410.72,332,2024-01-01
+356,HD 2TB,Gabinete,Dell,8842.47,89,2025-03-19
+357,Memória 8GB,Placa Mãe,HP,14914.36,494,2025-03-04
+358,Memória 8GB,Impressora,Samsung,7452.85,169,2023-11-19
+359,Monitor 27,Notebook,Acer,3992.88,127,2024-06-16
+360,Memória 16GB,Monitor,AOC,14537.15,452,2024-09-08
+361,Monitor 24,Notebook,Lenovo,8679.27,388,2022-02-11
+362,Mouse Sem Fio,Processador,Samsung,14275.9,37,2023-11-24
+363,Fonte 750W,Impressora,Acer,9212.4,247,2022/11/18
+364,Webcam HD,Fonte,Lenovo,3099.15,97,2023-09-02
+365,Notebook Office,Memória,Samsung,763.54,292,2023-08-27
+366,Fonte 750W,Monitor,Intel,9383.86,-10,2022-08-25
+367,Fonte 750W,Mouse,Asus,5974.06,250,2024-02-21
+368,SSD 1TB,Mouse,Redragon,6697.71,134,2022-07-18
+369,SSD 240GB,Webcam,Acer,5169.99,277,2024-12-06
+370,SSD 240GB,Monitor,Acer,8042.01,443,2022-03-13
+371,Mouse Gamer,Headset,Intel,13508.82,409,2022-12-21
+372,RTX 4070,hd,HP,2524.13,108,2022-10-30
+373,Monitor 24,Memória,AMD,3883.14,466,2023-10-30
+374,Fonte 650W,Headset,Acer,7804.93,469,2022-08-19
+375,Monitor 27,Placa Mãe,Redragon,2240.03,301,2022-07-26
+376,RTX 4060,Placa Mãe,Kingston,13014.78,450,2024/08/26
+377,Notebook Office,Impressora,Asus,6056.55,316,31/02/2025
+378,HD 2TB,Webcam,Intel,13814.11,459,2022-07-21
+379,Memória 8GB,Memória,Kingston,3434.8,153,2022-07-02
+380,Ryzen 7,Webcam,Dell,3186.63,421,2024-11-21
+381,Ryzen 7,Notebook,LG,1002.94,363,2023-01-30
+382,Memória 16GB,SSD,Asus,3026.89,29,2024-08-08
+383,Ryzen 5,Mouse,AOC,9538.44,63,2024-08-29
+384,Headset Gamer,Notebook,Acer,5259.4,83,2022-04-12
+385,SSD 240GB,SSD,Corsair,8592.43,494,2024-04-18
+386,Fonte 750W,Headset,Dell,12972.16,-10,2023-04-04
+387,SSD 1TB,Memória,AOC,12080.18,156,2023-12-16
+388,RTX 4060,Notebook,AMD,3288.77,154,2024-02-06
+389,Monitor 24,SSD,Corsair,8914.71,144,2023-10-28
+390,Teclado Mecânico,Headset,HP,3931.98,364,2022-04-27
+391,Mouse Gamer,Fonte,Intel,12039.41,307,2023-08-29
+392,Core i7,HD,Logitech,6290.11,198,2023-04-01
+393,Ryzen 7,Mouse,AOC,9581.94,243,2025-02-17
+394,Core i5,Mouse,Corsair,1482.09,65,2023-11-19
+395,Memória 8GB,Placa Mãe,Lenovo,3349.36,114,2024-08-07
+396,Fonte 650W,,AMD,7068.64,443,2022-09-03
+397,Mouse Gamer,Teclado,Asus,5737.4,152,2024-04-18
+398,Mouse Sem Fio,Placa de Vídeo,Asus,13394.82,234,2022-12-29
+399,Mouse Sem Fio,Mouse,Intel,889.04,231,2022-06-30
+400,RTX 4060,,Logitech,6517.0,219,2024-02-04
+401,Gabinete RGB,,HP,13382.26,387,2023-12-07
+402,Notebook Office,SSD,Intel,1558.57,257,2024-12-01
+403,Ryzen 5,Teclado,LG,5080.77,454,04-06-2024
+404,Mouse Sem Fio,Gabinete,Corsair,10912.99,,2022-03-18
+405,Gabinete RGB,Webcam,Dell,9612.01,-10,2022-04-09
+406,Headset Gamer,Gabinete,Corsair,6263.3,194,2022-01-20
+407,Headset Gamer,Webcam,Samsung,9931.74,339,2024-11-13
+408,Fonte 650W,SSD,AOC,1783.66,58,2024-12-07
+409,Teclado Mecânico,Placa de Vídeo,Asus,5381.67,cem,26/04/2023
+410,Monitor 24,Monitor,Logitech,13605.06,427,2022-07-27
+411,RX 7600,Notebooks,AOC,9672.17,233,2022-03-22
+412,Monitor 27,Impressora,Dell,5416.02,346,2022-01-20
+413,Fonte 650W,Gabinete,Samsung,9957.06,87,2024-02-03
+414,RTX 4060,Placa de Vídeo,Redragon,2759.38,205,2024-05-13
+415,Mouse Sem Fio,Impressora,Kingston,11957.71,57,2024-09-15
+416,Fonte 650W,Notebooks,Intel,10182.33,92,2024-09-26
+417,Ryzen 7,Placa Mãe,Logitech,mil,,2025-03-03
+418,Headset Gamer,Memória,Corsair,14337.31,447,2023-05-25
+419,Core i5,Placa Mãe,Dell,9962.39,328,2022-01-24
+420,Mouse Sem Fio,Placa video,Asus,2370.77,434,2023-05-09
+421,RTX 4060,Monitor,Intel,4186.79,259,2024-06-28
+422,Ryzen 5,Notebook,Samsung,6732.52,438,2024-04-06
+423,Fonte 650W,Impressora,AMD,8365.82,0,2025-02-25
+424,SSD 240GB,HD,AMD,10078.69,486,2024-08-26
+425,SSD 240GB,mouse,AOC,5462.15,231,2023-08-21
+426,Headset Gamer,Memória,Samsung,R$500,54,2023-06-05
+427,Teclado Mecânico,Monitor,Redragon,2829.4,476,99/99/9999
+428,Ryzen 7,Placa de Vídeo,Dell,1865.82,456,2024-12-22
+429,Ryzen 7,Impressora,LG,8307.33,221,2025-03-30
+430,Memória 8GB,Memória,Acer,12232.36,53,2023-05-24
+431,Mouse Gamer,Gabinete,Logitech,14454.63,496,2024-11-15
+432,Core i5,Teclado,HP,10528.38,440,2023-08-19
+433,Mouse Sem Fio,Gabinete,Corsair,13819.45,67,2023-10-23
+434,Gabinete RGB,Fonte,Logitech,11416.41,287,2024-12-29
+435,Notebook Office,Teclado,Lenovo,-100,-10,2022-11-26
+436,HD 2TB,Processador,Dell,10257.19,74,2024-01-05
+437,SSD 240GB,Processador,Acer,1555.15,444,2023-05-02
+438,RTX 4060,Headset,Corsair,11956.57,356,2023-10-03
+439,Impressora Laser,Placa de Vídeo,AOC,825.96,380,2023-04-07
+440,Webcam HD,Headset,Logitech,10575.34,331,2023-02-01
+441,Monitor 27,Memória,Lenovo,R$500,349,2025-02-13
+442,Headset Gamer,Notebook,LG,2430.71,433,2023-10-23
+443,Ryzen 5,Processador,Asus,11609.44,320,2022-05-30
+444,Ryzen 7,Processador,AMD,4781.53,112,2024-04-06
+445,HD 2TB,Headset,Kingston,3333.55,109,2024-12-22
+446,Memória 16GB,Impressora,Corsair,8428.79,,2023-05-15
+447,Monitor 27,Processador,Logitech,10244.62,164,99/99/9999
+448,Ryzen 5,,Asus,12335.19,191,2024-11-18
+449,Notebook Gamer,Teclado,Corsair,1457.43,497,2023-03-13
+450,Webcam HD,Fonte,AOC,6374.66,53,2022-05-28
+451,Notebook Office,SSD,AMD,2323.24,-10,2022-05-25
+452,RTX 4060,Notebook,Acer,3430.13,132,2022-08-31
+453,Monitor 24,Processador,Samsung,-100,316,2023-08-17
+454,RTX 4060,Fonte,Dell,4534.23,44,2024-08-28
+455,Core i5,Fonte,LG,3313.59,382,2023-09-03
+456,Notebook Gamer,Processador,LG,13714.25,407,99/99/9999
+457,Teclado Mecânico,Impressora,Logitech,8957.89,275,2023-12-06
+458,SSD 240GB,SSD,HP,13586.31,435,2022-08-23
+459,Monitor 24,Monitor,Lenovo,,436,2022-07-21
+460,Fonte 750W,SSD,Kingston,8717.32,487,2022-05-23
+461,Headset Gamer,Placa Mãe,Kingston,4780.43,230,2024-01-17
+462,Headset Gamer,Memória,Lenovo,R$500,86,2024-01-07
+463,Impressora Laser,Processador,Samsung,10999.93,449,2022-12-26
+464,Core i5,Gabinete,Corsair,1247.97,143,2022-06-06
+465,Core i7,Placa Mãe,HP,13383.74,,2022-03-17
+466,Memória 16GB,Impressora,Redragon,8161.17,276,2023-08-19
+467,Gabinete RGB,Headset,Kingston,7526.83,46,2022-12-06
+468,Gabinete RGB,Mouse,Logitech,2122.75,81,2024-09-17
+469,SSD 240GB,,AMD,625.49,cem,2024-01-10
+470,Ryzen 7,SSD,AOC,mil,451,2023-06-24
+471,Fonte 750W,Monitor,AMD,8561.0,192,2023-05-31
+472,Memória 16GB,Placa de Vídeo,Kingston,13610.49,264,2022-01-14
+473,SSD 1TB,Mouse,LG,2101.75,84,2024-01-12
+474,Webcam HD,Fonte,Intel,12257.99,338,2024-09-08
+475,Mouse Gamer,Mouse,LG,2435.47,426,99/99/9999
+476,RTX 4060,Placa Mãe,Corsair,2220.04,85,2022-02-08
+477,RX 7600,Placa de Vídeo,AOC,10925.06,420,2024-09-13
+478,Impressora Laser,Fonte,AMD,12458.85,307,2023-06-26
+479,SSD 240GB,Mouse,Samsung,10290.16,472,2022-02-03
+480,Fonte 650W,Placa de Vídeo,Kingston,12896.68,258,2022-03-21
+481,Mouse Gamer,Processador,AOC,7980.82,385,2022-01-03
+482,Notebook Office,Memória,HP,11627.56,332,2024-09-14
+483,Headset Gamer,Memória,LG,5730.92,301,2023-06-06
+484,Core i5,Teclado,Dell,3503.04,439,2022-01-15
+485,Memória 8GB,Monitor,LG,1785.07,3,2024-05-22
+486,Fonte 650W,Fonte,Acer,3819.42,437,2023-02-22
+487,Ryzen 5,SSD,Kingston,11761.15,247,2023-12-07
+488,Webcam HD,Headset,Logitech,5983.98,70,2022-11-28
+489,Headset Gamer,Notebook,LG,7634.99,402,2024-03-07
+490,Fonte 650W,Monitor,Lenovo,99.25,46,2023-03-31
+491,Fonte 650W,SSD,Logitech,9143.25,370,2022-04-28
+492,Ryzen 7,Notebook,Redragon,12307.03,,2024-11-11
+493,Fonte 750W,Notebooks,Samsung,3490.43,86,2023-07-20
+494,Notebook Gamer,Monitor,Samsung,5309.85,202,2025-01-30
+495,SSD 1TB,Teclado,Intel,12449.88,468,2024-04-07
+496,Ryzen 7,Monitor,Redragon,3931.39,208,2024-11-17
+497,RX 7600,Placa Mãe,Intel,13144.17,416,2023-05-14
+498,Notebook Gamer,SSD,Samsung,14419.36,234,2024-02-23
+499,RTX 4070,Processador,AMD,14913.09,346,2022-01-20
+500,Memória 8GB,Notebooks,Intel,3964.98,147,2023-10-05
+501,Teclado Mecânico,Teclado,HP,13416.86,137,2023-05-11
+502,Memória 16GB,Monitor,Samsung,3117.54,103,2022-06-10
+503,Memória 16GB,Placa de Vídeo,Kingston,-100,314,2023-07-17
+504,Impressora Laser,Notebook,AMD,14766.23,468,2024-05-16
+505,Impressora Laser,Monitor,Logitech,8120.7,257,2024-11-27
+506,Monitor 27,Placa Mãe,AOC,10344.37,6,2023-06-16
+507,Memória 16GB,Memória,HP,3957.48,137,2024-05-08
+508,Core i7,Placa Mãe,Corsair,5597.2,437,2023-04-14
+509,RTX 4060,Headset,Logitech,10817.82,411,2022-11-03
+510,Fonte 750W,Gabinete,Asus,165.94,215,2024-09-23
+511,Notebook Office,SSD,Intel,-100,290,2022-07-17
+512,SSD 1TB,Memória,Samsung,5033.15,184,2023-12-21
+513,Core i5,Headset,Lenovo,14447.49,101,2023-12-29
+514,RTX 4060,Placa de Vídeo,Corsair,7666.46,396,2022-10-24
+515,Core i7,Impressora,Samsung,9615.9,475,2022-06-12
+516,Fonte 650W,SSD,Intel,3438.7,162,2024-01-14
+517,Notebook Gamer,Teclado,Corsair,7823.62,230,2023-05-31
+518,Monitor 27,Placa video,AMD,10516.44,40,31/02/2025
+519,Monitor 24,Impressora,Acer,7869.26,42,2023-09-26
+520,Mouse Sem Fio,mouse,AOC,11069.15,226,2023-10-29
+521,RX 7600,Gabinete,AMD,7018.56,445,2022-12-29
+522,Ryzen 7,Processador,Lenovo,6859.02,383,2023-12-13
+523,SSD 1TB,Notebook,Dell,3422.38,45,2024-12-07
+524,Headset Gamer,Headset,Intel,12722.24,176,31/02/2025
+525,Teclado Mecânico,Processador,Acer,11973.51,cem,2024-03-19
+526,SSD 1TB,,AMD,10729.77,330,2023-07-11
+527,Monitor 24,SSD,Samsung,11149.04,414,2024-07-21
+528,Mouse Gamer,notebook,LG,4096.57,318,2022-07-29
+529,Mouse Gamer,,Asus,1893.09,224,2024-05-10
+530,Memória 8GB,Headset,LG,11995.95,190,2022-04-25
+531,SSD 1TB,Webcam,Dell,5898.48,278,2022-09-07
+532,Webcam HD,Teclado,Intel,10725.94,197,2022-07-12
+533,Memória 8GB,Gabinete,Dell,14732.1,242,2025-01-30
+534,Notebook Office,Teclado,Samsung,3814.62,326,2023-04-29
+535,RTX 4060,Notebook,Dell,4881.21,85,2025-04-05
+536,SSD 240GB,Monitor,Corsair,7139.55,305,2023-11-25
+537,Headset Gamer,Monitor,LG,mil,320,2024-09-26
+538,RX 7600,Notebook,Logitech,14725.5,403,2024-02-13
+539,Core i5,Teclado,Kingston,,460,2023-01-18
+540,Core i5,Processador,LG,4868.74,239,2024-07-09
+541,Ryzen 7,Mouse,Dell,3964.97,187,2024-01-16
+542,Gabinete RGB,Processador,LG,,369,2023-08-03
+543,Notebook Office,Mouse,LG,9620.74,56,2022-03-06
+544,Ryzen 7,Placa Mãe,Lenovo,,50,2022-04-11
+545,Monitor 24,Fonte,Dell,R$500,36,2024-01-10
+546,Notebook Office,SSD,AMD,14074.89,212,2022-03-25
+547,Monitor 27,Teclado,AMD,12520.16,39,2024-02-29
+548,Core i5,Memória,Logitech,7902.36,127,2022-08-05
+549,Monitor 27,Mouse,AMD,8656.92,345,2024-04-02
+550,Memória 16GB,Processador,Asus,9869.83,273,2024-02-01
+551,Core i7,Memória,Redragon,9505.95,422,2025-01-31
+552,Notebook Gamer,SSD,Kingston,3826.26,492,2022-02-03
+553,Memória 8GB,Monitor ,AMD,R$500,154,2024-11-13
+554,Mouse Gamer,HD,Kingston,13890.32,79,2023-05-27
+555,Teclado Mecânico,Gabinete,Asus,12169.89,47,2024-09-15
+556,Monitor 27,SSD,Dell,12389.06,353,2025-03-26
+557,RTX 4070,Webcam,Samsung,11706.23,471,2023-04-10
+558,Notebook Office,Placa Mãe,LG,,,2023-11-01
+559,RX 7600,Placa Mãe,AMD,3327.54,25,2022-07-04
+560,Ryzen 5,Notebook,AMD,4360.95,201,2024-03-28
+561,Mouse Gamer,Teclado,Intel,5989.94,222,2024-03-20
+562,SSD 240GB,hd,Asus,2957.57,315,2025-03-25
+563,Memória 16GB,Notebook,Redragon,10082.78,216,2023-09-17
+564,Mouse Gamer,Impressora,AOC,5258.75,420,2023-04-24
+565,Webcam HD,Notebooks,AOC,5619.84,387,13/08/2023
+566,Teclado Mecânico,Processador,Redragon,R$500,241,2023-06-14
+567,RTX 4060,Fonte,AMD,9353.17,72,2022-03-31
+568,Notebook Office,Notebook,Samsung,920.45,102,2024-03-06
+569,Notebook Gamer,Impressora,Corsair,9951.46,467,2024-03-02
+570,Ryzen 5,Processador,Samsung,5722.9,500,2023-01-17
+571,Ryzen 7,Placa de Vídeo,Acer,14502.53,-10,2022/11/18
+572,Ryzen 7,Notebook,Corsair,5343.56,154,2023-06-12
+573,SSD 1TB,HD,Acer,13358.22,417,2022-10-09
+574,Gabinete RGB,Teclado,Kingston,5745.46,491,2022-11-09
+575,Teclado Mecânico,Placa Mãe,AMD,4699.49,309,2023-02-19
+576,RTX 4070,Headset,LG,4648.8,361,2025-03-02
+577,Mouse Sem Fio,Impressora,LG,4776.09,285,2022-03-02
+578,Webcam HD,Impressora,Corsair,13204.38,211,2023-07-15
+579,Fonte 650W,Placa Mãe,Kingston,2835.25,67,2023-04-18
+580,Ryzen 5,Webcam,Kingston,3479.07,13,2024-08-18
+581,Mouse Sem Fio,Notebook,Acer,5621.91,436,2022-01-31
+582,Impressora Laser,Mouse,Intel,14253.97,113,2024-09-30
+583,Notebook Office,Webcam,Acer,13004.29,454,2023-10-03
+584,Headset Gamer,Processador,Samsung,14088.3,292,2024-07-13
+585,RTX 4060,Notebook,AMD,13168.95,449,2024-03-04
+586,HD 2TB,SSD,Intel,9467.12,25,2022-12-07
+587,RX 7600,Placa de Vídeo,Samsung,9204.75,27,2024-10-22
+588,RTX 4060,Placa de Vídeo,Dell,11685.39,480,2023-01-02
+589,SSD 1TB,Fonte,Logitech,13451.33,458,2022-12-02
+590,Monitor 24,Memória,Logitech,1870.69,58,2024-11-13
+591,Memória 8GB,Fonte,AOC,2415.3,281,2022-11-04
+592,HD 2TB,Placa de Vídeo,Lenovo,2186.22,393,2023-01-06
+593,Ryzen 5,Notebook,Kingston,mil,cem,2024-10-07
+594,Fonte 650W,Teclado,AMD,8841.16,243,2023-07-24
+595,Notebook Office,Notebook,LG,8372.08,422,2022-03-08
+596,Monitor 27,Mouse,LG,12573.46,152,2023-08-06
+597,RX 7600,HD,Dell,10378.87,304,2022-07-10
+598,Core i5,Placa video,LG,4855.87,cem,2022-09-07
+599,Teclado Mecânico,Monitor,Kingston,4130.79,269,2024-12-19
+600,Headset Gamer,Placa Mãe,AOC,7265.27,352,2023-10-11
+601,Core i7,Gabinete,Corsair,8635.64,319,2024-10-16
+602,Teclado Mecânico,notebook,Intel,2715.01,312,2022-08-30
+603,Memória 8GB,Headset,Corsair,3125.82,315,03-11-2023
+604,Ryzen 7,Headset,Dell,10356.46,130,2022-08-22
+605,Mouse Sem Fio,Webcam,Asus,5133.6,370,2024-09-08
+606,RX 7600,Processador,Asus,11962.87,330,2024-08-05
+607,Gabinete RGB,Processador,Dell,mil,380,2023-03-03
+608,Mouse Gamer,Notebook,Asus,4989.16,469,2024-02-08
+609,Monitor 27,Headset,Lenovo,12639.24,292,2023-10-07
+610,RX 7600,SSD,HP,4087.03,44,2024-12-11
+611,RX 7600,Headset,Intel,R$500,401,2024-10-21
+612,Impressora Laser,Headset,AOC,5114.94,247,2022-07-21
+613,Notebook Office,Gabinete,AOC,14071.6,346,2024-12-05
+614,Monitor 24,Impressora,Dell,4678.5,22,2022-07-31
+615,Teclado Mecânico,Teclado,Lenovo,mil,159,2023-07-21
+616,SSD 1TB,Placa Mãe,AMD,11596.35,343,2024-11-18
+617,Headset Gamer,Placa Mãe,HP,8147.08,281,99/99/9999
+618,Ryzen 5,Notebook,Samsung,13385.8,276,31/02/2025
+619,Headset Gamer,Placa Mãe,Asus,5890.91,360,2023-10-02
+620,Impressora Laser,Placa Mãe,LG,2988.24,388,2022-07-10
+621,Fonte 750W,Placa de Vídeo,Intel,13796.94,239,2023-04-20
+622,RTX 4060,Impressora,Corsair,2172.95,458,2023-11-08
+623,Memória 16GB,Webcam,LG,13238.41,-10,2023-08-02
+624,Headset Gamer,HD,AMD,9074.51,65,2022-05-26
+625,SSD 240GB,Placa de Vídeo,Acer,8000.53,205,2022-05-16
+626,Core i7,Processador,Logitech,12212.46,302,2023-04-29
+627,Ryzen 5,Placa Mãe,Intel,10050.69,378,2023-10-29
+628,Fonte 650W,Webcam,Kingston,12333.91,90,2024-02-16
+629,Core i7,Fonte,Redragon,9681.94,31,2022-01-01
+630,Core i7,Teclado,Corsair,9920.0,231,2023-10-11
+631,RTX 4070,Impressora,Asus,11919.31,347,2022-07-02
+632,HD 2TB,notebook,Dell,9180.13,261,2025-02-20
+633,Headset Gamer,Fonte,Asus,5401.48,cem,2024-02-23
+634,Teclado Mecânico,Webcam,Asus,6539.15,108,2024-05-04
+635,Notebook Gamer,Impressora,Intel,14961.89,,2024-06-13
+636,RX 7600,Gabinete,Kingston,2053.92,70,2024-05-21
+637,Memória 16GB,Memória,Kingston,6826.83,217,2022-01-16
+638,Core i5,Notebook,Dell,12705.12,121,2025-03-09
+639,Mouse Gamer,Processador,AOC,5541.31,297,2023-07-27
+640,Fonte 750W,Fonte,Samsung,1191.95,455,2025-01-09
+641,Notebook Gamer,Processador,Intel,4701.25,27,2025-03-21
+642,Mouse Sem Fio,Monitor ,Logitech,6326.82,491,2025-02-28
+643,Webcam HD,SSD,Intel,9446.91,cem,2022-06-18
+644,SSD 1TB,SSD,Dell,1171.4,401,2022-08-17
+645,Mouse Sem Fio,Gabinete,HP,13653.77,378,2024-09-20
+646,Mouse Gamer,Webcam,LG,7920.29,16,2024-10-12
+647,Fonte 750W,Placa Mãe,Logitech,6205.96,196,2023/12/08
+648,HD 2TB,Headset,AMD,,59,2023-04-24
+649,RTX 4070,Placa video,Acer,10590.0,242,2023-10-09
+650,Memória 16GB,Memória,Kingston,10249.49,21,2023-07-13
+651,RX 7600,Gabinete,HP,4020.98,50,2023-02-04
+652,Monitor 24,NOTEBOOK,AMD,10172.22,-10,2022-08-01
+653,Notebook Gamer,Notebook,Kingston,5285.72,371,2023-03-21
+654,Fonte 650W,Fonte,Redragon,9578.48,362,2025-03-05
+655,RX 7600,Monitor,Corsair,2787.83,56,2024-07-17
+656,Impressora Laser,Mouse,Redragon,4160.23,218,2022-06-01
+657,Mouse Sem Fio,Placa de Vídeo,HP,954.56,cem,2024-03-15
+658,Fonte 650W,Impressora,Intel,7391.02,73,2023-06-15
+659,Notebook Gamer,Mouse,Corsair,1112.33,292,2022-01-02
+660,RTX 4060,Processador,Logitech,9975.8,136,2024-10-01
+661,Core i5,Memória,Logitech,6070.61,372,2024-09-14
+662,Notebook Office,Fonte,Samsung,8038.86,183,2024-01-19
+663,HD 2TB,Mouse,AMD,14414.66,41,2022-03-22
+664,Fonte 750W,Placa de Vídeo,Samsung,9917.8,153,2024-06-15
+665,Monitor 24,Fonte,Lenovo,R$500,98,2024-10-20
+666,Notebook Office,Gabinete,Dell,12517.07,cem,2024-04-10
+667,Core i5,Placa Mãe,HP,12110.41,341,05-28-2022
+668,Notebook Office,Fonte,LG,7343.64,9,2022-01-30
+669,Fonte 650W,Placa Mãe,Samsung,768.37,157,2022-08-06
+670,RTX 4070,Webcam,Logitech,8932.76,315,2024-04-03
+671,Teclado Mecânico,Placa Mãe,LG,14638.28,294,2023/11/19
+672,Mouse Sem Fio,Impressora,Kingston,2135.73,212,2022-03-25
+673,Notebook Gamer,Monitor,Dell,11869.96,323,2022-01-15
+674,Headset Gamer,Headset,Intel,1355.34,333,2022-09-17
+675,Mouse Sem Fio,Notebook,Kingston,9604.59,267,2023-01-04
+676,Memória 16GB,Processador,HP,9188.51,45,2023-01-29
+677,Core i5,Placa de Vídeo,Redragon,7962.38,48,2023-03-03
+678,Ryzen 5,Mouse,Corsair,2921.91,407,2022/03/30
+679,Impressora Laser,Monitor,Logitech,4290.27,222,2022-04-18
+680,Webcam HD,Placa Mãe,Asus,-100,-10,2024-05-08
+681,SSD 240GB,Gabinete,Acer,10159.25,166,2023-02-14
+682,Mouse Gamer,Placa Mãe,Intel,3325.53,cem,2022-12-31
+683,SSD 1TB,Mouse,Dell,2063.34,368,03-10-2025
+684,Memória 8GB,SSD,Kingston,1684.42,238,2022-11-18
+685,Core i5,Monitor,Acer,9577.23,313,2024-12-04
+686,Notebook Gamer,Gabinete,AOC,14935.05,302,2023-05-21
+687,Mouse Gamer,Impressora,Dell,6525.05,113,2024-05-05
+688,RTX 4070,Placa de Vídeo,Redragon,620.08,240,2022-07-20
+689,RTX 4070,Mouse,Asus,3622.86,285,2023-08-29
+690,Headset Gamer,Placa Mãe,Logitech,14984.3,8,31/02/2025
+691,Memória 16GB,Gabinete,Corsair,6967.13,70,2022-01-03
+692,HD 2TB,SSD,Logitech,1079.06,457,2025-01-15
+693,Webcam HD,Processador,Corsair,3123.05,350,2024-01-16
+694,Mouse Sem Fio,Gabinete,Samsung,1682.28,cem,2025-02-22
+695,Ryzen 5,Headset,Kingston,3086.59,171,2023-03-06
+696,Gabinete RGB,Notebook,Samsung,11418.07,164,2024-02-03
+697,Core i5,Processador,Lenovo,7303.68,269,2024-07-14
+698,Monitor 24,Impressora,Intel,12002.56,484,2022-06-28
+699,SSD 1TB,Mouse,Intel,13471.23,-10,2022-11-05
+700,Core i5,Placa de Vídeo,Asus,,321,2024-05-10
+701,Ryzen 7,Memória,Kingston,9677.37,-10,2023-12-04
+702,Core i5,SSD,Kingston,11806.63,248,2022-09-28
+703,HD 2TB,Notebook,LG,4611.3,404,2023-12-25
+704,HD 2TB,Mouse,AOC,14344.08,316,2022-11-11
+705,Memória 16GB,Processador,Logitech,1771.42,162,2022-03-13
+706,Mouse Sem Fio,Monitor,Dell,14670.78,75,2024-04-08
+707,Notebook Gamer,Processador,AMD,11532.4,485,2023-11-10
+708,Core i7,Headset,Kingston,4447.44,458,2024-06-24
+709,Core i5,Notebook,Acer,1702.49,245,2023-03-28
+710,Ryzen 7,Impressora,Redragon,1405.37,28,2023-07-24
+711,Monitor 24,Memória,HP,1272.17,434,2024-10-01
+712,Headset Gamer,HD,Acer,mil,483,2024/02/03
+713,Teclado Mecânico,Placa de Vídeo,Logitech,5283.3,500,2024-05-01
+714,Webcam HD,Mouse,AOC,4343.74,412,2022-06-26
+715,Core i7,Monitor,Dell,4562.4,444,2024-04-18
+716,Impressora Laser,Teclado,LG,4114.47,89,2024-02-21
+717,HD 2TB,Gabinete,Intel,7368.97,421,05/04/2023
+718,Ryzen 5,Fonte,Lenovo,2327.28,153,2024-05-04
+719,SSD 1TB,Monitor,Kingston,13603.76,330,2024-01-11
+720,Headset Gamer,HD,AMD,8492.31,444,2025/03/24
+721,Headset Gamer,Mouse,Dell,2459.45,29,2023-07-13
+722,Ryzen 7,Monitor,AMD,9550.98,489,2023-02-01
+723,Memória 8GB,Webcam,AOC,2765.05,48,2023-09-09
+724,Mouse Gamer,Monitor ,Asus,10475.55,185,2024-09-20
+725,SSD 240GB,Headset,AMD,13815.19,83,2024-12-12
+726,RX 7600,Monitor,AOC,10693.96,359,2022-09-26
+727,RX 7600,Placa Mãe,AMD,7203.18,159,2023-12-02
+728,Headset Gamer,Teclado,Lenovo,4584.17,381,2022-09-14
+729,Monitor 24,Placa video,Redragon,14717.02,217,02/06/2024
+730,SSD 1TB,Monitor ,Corsair,511.23,-10,2022-01-22
+731,Teclado Mecânico,HD,Dell,11739.91,471,2022-07-05
+732,Mouse Sem Fio,Headset,Logitech,11198.05,142,2023-05-11
+733,Headset Gamer,SSD,LG,1043.69,-10,05/01/2025
+734,Memória 16GB,Mouse,Intel,13865.0,471,2022-08-08
+735,RTX 4070,HD,Samsung,5335.24,194,2024-08-12
+736,Webcam HD,mouse,Intel,2055.97,390,2022-08-25
+737,RX 7600,Memória,Lenovo,6865.05,376,2024-05-26
+738,Memória 16GB,Fonte,Intel,1062.75,430,2022-08-04
+739,RTX 4060,Monitor,Logitech,7849.48,346,12-12-2022
+740,SSD 240GB,Gabinete,Intel,5092.7,304,2023-07-25
+741,Fonte 750W,HD,Intel,11494.26,303,2024-04-08
+742,SSD 1TB,Teclado,Corsair,7680.99,75,03/10/2022
+743,RTX 4060,HD,LG,12458.08,255,2023-09-13
+744,Ryzen 5,Teclado,Lenovo,1463.08,39,2024-10-16
+745,Notebook Gamer,Notebook,Acer,3939.75,175,2022-09-01
+746,Core i5,Headset,Lenovo,4732.1,-10,2022-12-03
+747,Core i7,Fonte,AMD,2034.63,366,2025-01-09
+748,Ryzen 5,Memória,Kingston,7149.15,cem,2023-12-24
+749,Memória 16GB,Gabinete,Kingston,-100,31,2022-02-25
+750,Memória 16GB,Notebook,Corsair,9384.79,194,2023-05-16
+751,HD 2TB,Mouse,Dell,9728.28,303,2025-01-07
+752,RTX 4070,Gabinete,Intel,6924.42,442,2022-02-15
+753,Ryzen 5,Fonte,HP,5678.51,199,2023-11-20
+754,Memória 16GB,Teclado,Intel,12175.63,341,2022-06-04
+755,Core i7,Teclado,Kingston,8046.79,147,2022-07-08
+756,Ryzen 5,HD,Redragon,8681.33,,2022-06-07
+757,Memória 8GB,Memória,Lenovo,4541.67,411,2024-11-21
+758,Ryzen 7,Placa Mãe,Intel,11456.36,92,2023-03-13
+759,Core i5,Webcam,Redragon,12362.14,480,2024-06-07
+760,Mouse Gamer,Gabinete,Corsair,10904.69,30,2023-09-07
+761,RTX 4070,SSD,Corsair,6165.7,-10,2022-11-25
+762,Notebook Gamer,Webcam,Lenovo,9026.46,207,2024-08-08
+763,SSD 1TB,SSD,Redragon,14869.57,-10,2023-07-23
+764,Notebook Office,Monitor,Asus,,436,2023-09-03
+765,Monitor 24,Webcam,Logitech,13510.61,208,2022-10-15
+766,Core i7,Impressora,AMD,8573.18,256,2023-05-31
+767,Memória 8GB,Gabinete,Acer,1371.93,307,2023-04-29
+768,RX 7600,Webcam,Kingston,3285.77,54,2022-04-25
+769,Ryzen 5,SSD,Redragon,5633.08,485,2022-10-24
+770,Fonte 650W,notebook,Logitech,10740.76,420,2023-05-06
+771,Gabinete RGB,Webcam,HP,5782.66,327,2024-06-25
+772,HD 2TB,Webcam,Redragon,13648.64,201,2023-04-28
+773,Impressora Laser,Headset,Dell,12894.06,82,2023-07-16
+774,Memória 8GB,Impressora,AOC,12351.5,481,2022-07-25
+775,Core i5,Placa de Vídeo,Logitech,,259,2022-02-26
+776,Mouse Gamer,,Corsair,9627.76,94,2023-09-18
+777,Impressora Laser,Headset,LG,1251.84,80,2024-04-20
+778,Mouse Sem Fio,Webcam,Asus,4804.6,244,2023-08-01
+779,Core i7,Notebook,AMD,6229.16,93,2023-04-14
+780,Notebook Office,Memória,Kingston,14612.43,101,2023-06-17
+781,Headset Gamer,Headset,Intel,14371.33,87,2024-10-09
+782,SSD 1TB,Placa de Vídeo,Acer,10709.18,97,2022-09-24
+783,Gabinete RGB,Mouse,Acer,3114.96,110,2022/10/26
+784,Gabinete RGB,Monitor,Dell,3547.57,230,2024-08-18
+785,RTX 4060,Gabinete,Kingston,4862.22,354,99/99/9999
+786,Memória 16GB,Fonte,Redragon,900.11,170,99/99/9999
+787,Mouse Gamer,Processador,Dell,9302.47,154,2025-04-03
+788,Mouse Gamer,Gabinete,AMD,2564.6,252,2024-06-05
+789,SSD 1TB,Impressora,Acer,1770.29,22,2023-08-03
+790,Memória 8GB,Mouse,Asus,3962.98,424,2024-10-03
+791,RX 7600,Notebooks,Dell,2285.95,436,2023-04-16
+792,Ryzen 5,mouse,Logitech,7064.31,83,2025-02-22
+793,Memória 16GB,Webcam,Lenovo,7404.97,433,2023-01-05
+794,Core i7,Notebook,AMD,11254.05,421,2025-03-14
+795,Memória 8GB,NOTEBOOK,Acer,13807.79,126,2024-02-05
+796,Headset Gamer,Placa de Vídeo,Corsair,14269.27,cem,2023-07-06
+797,Webcam HD,Impressora,Redragon,,496,2025-03-11
+798,Notebook Office,Processador,Kingston,12951.92,410,2024-02-21
+799,Monitor 24,,LG,3842.36,122,2024-03-06
+800,HD 2TB,Memória,Logitech,4288.34,385,2023-09-28
+801,Ryzen 7,Placa de Vídeo,Acer,9060.63,183,2024-09-02
+802,Fonte 650W,Fonte,Acer,9013.1,46,2022/07/10
+803,Mouse Gamer,Processador,Corsair,14599.61,346,2024-12-10
+804,Mouse Gamer,Fonte,Lenovo,7033.92,40,2023-05-25
+805,Ryzen 7,Memória,Acer,4446.31,24,2022-07-13
+806,Monitor 24,Notebook,Samsung,10810.24,416,2024-08-05
+807,HD 2TB,Gabinete,Intel,,201,2024-07-10
+808,Teclado Mecânico,Gabinete,Kingston,3990.81,494,2023-06-16
+809,Mouse Sem Fio,Placa de Vídeo,Logitech,,273,2024-04-09
+810,Fonte 650W,Fonte,Logitech,14487.74,308,2024-03-19
+811,Headset Gamer,Webcam,Dell,-100,69,2023-03-05
+812,Core i5,SSD,Redragon,2194.41,123,2024-08-07
+813,Headset Gamer,Placa de Vídeo,Intel,6339.75,59,2022-02-10
+814,RTX 4060,notebook,Samsung,8786.69,103,2024-06-03
+815,HD 2TB,hd,Intel,12732.27,377,2024-11-17
+816,SSD 240GB,Processador,Dell,9180.2,347,2024-05-14
+817,Ryzen 5,Placa Mãe,Corsair,8307.77,137,2023-12-12
+818,Memória 16GB,Processador,HP,6554.73,82,2023-11-26
+819,HD 2TB,Memória,Acer,12804.74,366,2024-01-08
+820,Headset Gamer,Fonte,Intel,12000.33,432,2022-09-22
+821,Ryzen 5,Teclado,AMD,2361.59,251,2022-04-07
+822,Ryzen 7,NOTEBOOK,Asus,5394.63,133,2024-05-31
+823,Memória 8GB,Headset,Dell,3415.82,287,2025-02-14
+824,Monitor 27,Impressora,Intel,2284.65,353,2024-07-25
+825,Monitor 27,Notebook,AMD,11341.35,499,2022-08-04
+826,HD 2TB,Headset,AMD,1788.53,105,2024-10-17
+827,Monitor 27,Placa de Vídeo,Acer,1507.43,331,2022-01-14
+828,SSD 1TB,Headset,Acer,12141.0,174,2024-01-09
+829,SSD 240GB,Memória,Acer,3696.86,385,2024-04-18
+830,Notebook Gamer,Headset,Dell,14278.57,264,2024-11-25
+831,RTX 4070,notebook,Corsair,1289.98,161,2022-11-06
+832,Ryzen 7,Memória,Acer,885.99,323,2025-02-07
+833,Ryzen 7,Mouse,Logitech,10828.83,cem,2024-04-07
+834,RX 7600,Impressora,Redragon,3092.9,278,2024-04-08
+835,Webcam HD,Mouse,AMD,mil,43,2025-01-12
+836,Fonte 750W,Notebook,Redragon,1410.44,282,2025-01-10
+837,Ryzen 7,Notebook,AOC,3635.27,396,2024-02-03
+838,Core i7,Placa de Vídeo,Asus,-100,63,2023-04-29
+839,Gabinete RGB,Placa Mãe,HP,14835.22,289,2023-12-19
+840,Headset Gamer,Gabinete,HP,10010.5,417,2022-08-04
+841,Mouse Gamer,Webcam,Acer,8743.89,421,2022-06-17
+842,Memória 16GB,Memória,Kingston,6384.8,66,2025-02-18
+843,RX 7600,Placa de Vídeo,Logitech,5933.84,135,2024-05-03
+844,Headset Gamer,Processador,Samsung,2182.31,65,2023-03-12
+845,Monitor 27,Memória,Samsung,508.46,80,2022-09-05
+846,Memória 16GB,Placa de Vídeo,Dell,4358.07,267,2022-10-20
+847,HD 2TB,Webcam,Logitech,8852.57,24,99/99/9999
+848,Core i7,HD,Redragon,,445,2024-02-12
+849,Fonte 750W,Placa de Vídeo,Corsair,10806.1,310,2024-07-08
+850,RTX 4070,Impressora,Acer,10923.41,45,2023-11-26
+851,Monitor 24,Gabinete,Dell,14372.03,455,2025-03-17
+852,Core i5,Placa Mãe,AMD,11578.5,158,2025-03-27
+853,Notebook Gamer,Impressora,AMD,14360.25,267,2023-01-04
+854,Core i7,Headset,AMD,4138.94,105,2023-10-19
+855,Mouse Sem Fio,Webcam,AMD,693.85,441,2023-10-12
+856,Mouse Sem Fio,Monitor,LG,1383.56,50,2023-09-21
+857,Notebook Gamer,SSD,Acer,10185.56,30,2022-07-22
+858,Monitor 27,,Redragon,6204.09,165,2025-04-15
+859,Notebook Office,Processador,Acer,7639.15,258,2022-05-15
+860,Core i7,Teclado,Redragon,6124.26,,2025-02-10
+861,Fonte 750W,Headset,LG,1901.06,290,2024-02-04
+862,Core i5,Notebook,AOC,2539.46,125,2024-08-09
+863,SSD 1TB,Webcam,Corsair,9318.53,cem,2024-02-18
+864,Notebook Office,Processador,Kingston,12639.73,108,2022-05-24
+865,SSD 1TB,Teclado,Kingston,5941.67,62,2024-10-30
+866,Impressora Laser,SSD,HP,4788.19,349,2023-10-21
+867,Mouse Gamer,Notebook,Kingston,6907.79,306,02/09/2024
+868,Ryzen 5,Processador,Samsung,10097.14,211,2022-06-08
+869,Memória 16GB,Memória,AOC,13390.73,417,2024-01-04
+870,Memória 16GB,Placa de Vídeo,Dell,12590.4,cem,2023-03-30
+871,Monitor 24,Fonte,Lenovo,11381.15,348,2023-03-29
+872,Headset Gamer,Notebook,HP,,185,2024-03-22
+873,Gabinete RGB,Fonte,Corsair,4174.67,256,2025-03-03
+874,SSD 240GB,Gabinete,Redragon,mil,381,2023-07-16
+875,SSD 1TB,Impressora,Intel,10176.12,496,2022-01-05
+876,Memória 8GB,Memória,Lenovo,9621.67,482,2022-09-07
+877,SSD 240GB,hd,AMD,7009.47,,2024-07-08
+878,Notebook Gamer,Teclado,Logitech,5890.05,171,2024-05-17
+879,Fonte 750W,Notebook,Intel,13756.59,100,2024-06-03
+880,SSD 240GB,Teclado,Asus,8896.11,320,2022-04-22
+881,Fonte 650W,Monitor,Corsair,7804.73,121,2024-07-03
+882,Headset Gamer,Notebooks,Dell,1301.31,31,99/99/9999
+883,HD 2TB,Memória,Samsung,9400.25,-10,2024-04-21
+884,RX 7600,Impressora,Kingston,9001.65,337,2022-07-27
+885,Monitor 27,Placa Mãe,Logitech,mil,400,2022-05-19
+886,SSD 1TB,Placa de Vídeo,Logitech,12614.88,463,2024-06-29
+887,Ryzen 7,Headset,Asus,mil,22,2023-09-30
+888,Memória 8GB,Notebook,AMD,8126.33,74,99/99/9999
+889,Teclado Mecânico,Fonte,HP,12291.37,286,2022-05-21
+890,Headset Gamer,Placa Mãe,Kingston,10024.54,355,2023-11-19
+891,Notebook Office,Impressora,Dell,6292.06,83,2023-04-02
+892,Memória 8GB,Memória,HP,7008.72,109,2024-03-30
+893,Mouse Gamer,Teclado,Corsair,mil,-10,2025-04-14
+894,SSD 240GB,Gabinete,LG,R$500,499,2023-11-27
+895,Notebook Gamer,Mouse,Acer,mil,100,2022-08-16
+896,Gabinete RGB,Processador,Redragon,3169.36,233,2024-06-07
+897,Teclado Mecânico,Memória,Logitech,999.36,73,2024-02-06
+898,Core i7,Processador,Lenovo,6454.51,,2022-11-01
+899,Ryzen 7,Impressora,Intel,817.82,407,2023-03-05
+900,RTX 4060,Fonte,Redragon,11774.29,,2024-11-08
+901,Headset Gamer,Placa de Vídeo,Intel,7793.01,91,2023-07-04
+902,Teclado Mecânico,Teclado,Acer,9578.82,-10,2023-03-24
+903,SSD 1TB,Mouse,Redragon,13332.86,292,2022-06-22
+904,Fonte 650W,Placa de Vídeo,Intel,7791.93,117,2024-06-04
+905,SSD 240GB,Monitor,Asus,12071.48,cem,2022-06-18
+906,SSD 240GB,Monitor,Asus,7536.44,279,2022-03-20
+907,Impressora Laser,SSD,HP,5019.69,345,2022-10-10
+908,Impressora Laser,Webcam,Asus,11290.7,378,2024-04-07
+909,Ryzen 7,Mouse,AOC,12331.48,387,2024-03-25
+910,Core i5,Gabinete,AOC,10855.57,107,2024-08-02
+911,Headset Gamer,Placa de Vídeo,Intel,1306.42,433,02-17-2025
+912,Ryzen 5,Webcam,Asus,8671.08,65,2023-11-27
+913,Core i5,Placa Mãe,Dell,6397.28,385,2025-03-08
+914,Core i7,Placa Mãe,Kingston,13833.72,78,2025-03-21
+915,Teclado Mecânico,HD,Kingston,14702.98,cem,2024-07-13
+916,Notebook Office,Placa Mãe,Intel,4583.59,87,2022-02-24
+917,HD 2TB,Monitor,Intel,1060.98,493,2022-04-28
+918,Mouse Sem Fio,Mouse,AMD,185.49,167,2024-05-06
+919,Teclado Mecânico,Webcam,Logitech,1050.07,489,2024-08-30
+920,Gabinete RGB,Teclado,Dell,8634.87,158,2022-10-20
+921,Core i7,Placa de Vídeo,Intel,12372.25,309,25/03/2025
+922,Headset Gamer,Memória,Kingston,4332.92,451,2022-12-25
+923,Gabinete RGB,Placa Mãe,Samsung,2710.08,316,2024-03-16
+924,Fonte 750W,Fonte,Samsung,674.09,453,2023-03-21
+925,Monitor 24,Processador,Redragon,6180.95,390,2023-10-30
+926,Monitor 24,Fonte,Logitech,2489.29,106,2024-08-03
+927,Monitor 27,Mouse,Asus,11194.44,cem,2024-08-08
+928,RX 7600,Webcam,Lenovo,1042.19,280,2022-11-27
+929,Webcam HD,Monitor,Corsair,290.63,51,2022-01-23
+930,Gabinete RGB,Placa de Vídeo,Logitech,2319.38,183,2022-04-08
+931,Monitor 27,SSD,Intel,12176.45,328,2022-04-18
+932,Memória 16GB,Teclado,Samsung,749.0,193,2022-02-02
+933,Monitor 24,Impressora,Samsung,14839.57,172,2022-12-10
+934,Core i5,Placa Mãe,HP,679.31,262,2025-01-14
+935,Mouse Sem Fio,mouse,Dell,6429.65,118,2024-03-08
+936,Memória 16GB,,Acer,3317.04,336,2023-09-10
+937,Core i7,Monitor,Kingston,7503.65,52,2023-10-27
+938,Mouse Gamer,Fonte,Redragon,10450.8,347,2023-10-14
+939,Core i7,Processador,Corsair,10002.23,34,2023-04-22
+940,Monitor 27,Gabinete,Acer,10575.34,6,2023-05-14
+941,RTX 4060,Notebook,HP,917.65,191,2024-06-27
+942,Notebook Office,Memória,Corsair,4943.77,142,2023-08-14
+943,Core i5,,Redragon,3450.57,375,2023-04-01
+944,Monitor 24,Monitor,HP,5734.66,164,2022-04-17
+945,Core i5,Impressora,HP,2140.15,104,2023-04-29
+946,SSD 240GB,Placa Mãe,HP,6405.07,239,2023-09-13
+947,Ryzen 5,HD,Acer,6735.1,325,2024-02-13
+948,Mouse Gamer,Headset,Intel,6631.81,258,2022-02-10
+949,Fonte 650W,Processador,Logitech,6422.41,42,2022-12-26
+950,Ryzen 5,Notebooks,Logitech,6965.5,232,2024-08-19
+951,RTX 4070,Gabinete,Asus,mil,2,2024-02-26
+952,Monitor 27,Placa Mãe,LG,-100,301,2023-02-02
+953,Ryzen 7,Fonte,Logitech,14357.31,394,2024-01-25
+954,Ryzen 5,mouse,Corsair,9770.58,474,2022-02-27
+955,Mouse Gamer,Placa Mãe,Kingston,9687.1,133,27/11/2022
+956,Monitor 24,Teclado,Acer,9673.07,469,2022-12-06
+957,RTX 4060,Gabinete,Acer,3808.01,154,2022-07-02
+958,Webcam HD,Gabinete,Acer,8597.72,408,09-23-2023
+959,RTX 4070,Fonte,Lenovo,12249.51,0,2024-06-01
+960,Ryzen 7,Placa de Vídeo,Kingston,5632.28,360,2023-03-12
+961,RTX 4070,Impressora,Kingston,903.55,93,2022-08-12
+962,Monitor 24,Placa Mãe,HP,2508.57,150,2024-09-05
+963,Notebook Office,Processador,Redragon,-100,4,2022-01-15
+964,Ryzen 5,Placa Mãe,Acer,7810.71,492,2023-11-21
+965,Gabinete RGB,Placa Mãe,Dell,13354.48,161,2023-12-31
+966,Webcam HD,Impressora,LG,12097.93,1,2022-02-22
+967,SSD 240GB,Placa Mãe,Corsair,13037.7,143,2024-08-31
+968,Memória 8GB,mouse,AOC,9910.22,1,2022-04-04
+969,RTX 4060,Headset,Samsung,11042.48,347,2023-12-15
+970,Headset Gamer,Gabinete,Acer,13973.62,476,2023-08-25
+971,Headset Gamer,Mouse,Intel,10684.89,445,2022-06-28
+972,RX 7600,Placa de Vídeo,Corsair,10102.47,280,2025-01-12
+973,Monitor 27,Gabinete,Dell,3190.38,385,2022-11-25
+974,SSD 1TB,Impressora,Corsair,4910.98,196,2022-09-10
+975,Headset Gamer,Teclado,Kingston,13842.59,324,2022-05-13
+976,Fonte 750W,Processador,AOC,5667.61,367,2024-06-13
+977,Memória 8GB,Impressora,HP,3368.79,59,2022-08-26
+978,Notebook Gamer,Placa Mãe,AMD,1928.71,160,2023-01-24
+979,Mouse Gamer,Placa Mãe,Kingston,14698.15,163,2023-03-31
+980,HD 2TB,Placa de Vídeo,Corsair,157.64,436,2024-07-22
+981,Headset Gamer,mouse,Lenovo,4265.22,382,2024-10-25
+982,Teclado Mecânico,Gabinete,Acer,1869.49,434,2022-05-01
+983,SSD 240GB,Notebook,AOC,5010.51,423,2023-01-02
+984,Mouse Sem Fio,Processador,Acer,10916.38,153,2023-11-23
+985,Ryzen 7,SSD,Logitech,7111.86,178,2023-02-04
+986,Core i7,Notebook,AOC,8229.19,49,2023-09-15
+987,Mouse Gamer,Headset,Logitech,2472.14,70,2023-02-05
+988,Mouse Gamer,Memória,Corsair,156.81,371,2022-12-11
+989,Monitor 27,Fonte,Asus,1458.8,498,2024-06-07
+990,RTX 4060,Gabinete,Kingston,9412.05,206,2022-12-20
+991,Monitor 24,Webcam,AOC,5643.07,354,2024-02-22
+992,Ryzen 5,Impressora,AMD,-100,188,99/99/9999
+993,Core i7,Placa de Vídeo,Corsair,14810.49,245,2024-06-07
+994,Headset Gamer,Placa video,Samsung,R$500,166,2024-11-28
+995,Impressora Laser,Fonte,Samsung,8093.95,419,2023-01-06
+996,Monitor 27,,Corsair,10434.33,2,2022-11-27
+997,Memória 16GB,Mouse,Acer,-100,385,2022-01-01
+998,Gabinete RGB,Mouse,Kingston,711.57,484,2024-10-01
+999,Headset Gamer,Webcam,Dell,7849.54,180,05-01-2023
+1000,Core i5,HD,Lenovo,4509.64,426,2022-09-21
