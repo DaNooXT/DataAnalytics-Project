@@ -9,8 +9,8 @@ def load_orders ():
     return df_orders
 
 def load_payments ():
-    df_peyments = pd.read_csv("data/raw/payments.csv")
-    return df_peyments
+    df_payments = pd.read_csv("data/raw/payments.csv")
+    return df_payments
 
 def load_products ():
     df_products = pd.read_csv("data/raw/products.csv")
