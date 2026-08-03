@@ -53,7 +53,7 @@ def clean_orders (df):
         .round(2)
     )
 
-    df_orders['pedidos_sem_data'] = (
+    df_orders['status_data'] = (
         np.where (
             (df_orders['data_pedido'].isna()), 
             "PEDIDO SEM DATA", 
