@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from utils.categories import define_category
+from src.utils.categories import define_category
 
 def clean_products (df):
     df_products = df.copy()

@@ -1,8 +1,10 @@
 import pandas as pd
 import numpy as np
 
-def clean_orders (df):
+def clean_orders (df, df2, df3):
     df_orders = df.copy()
+    df_products = df2.copy()
+    df_clients = df3.copy()
     
     df_orders['quantidade'] = pd.to_numeric (
         df_orders['quantidade'],
@@ -64,5 +66,13 @@ def clean_orders (df):
     df_orders['desconto'] = df_orders['desconto'].fillna(0)
 
     df_orders = df_orders.dropna(subset=['quantidade'])
+
+    df_orders = df_orders[
+        df_orders["produto_id"].isin(df_products["produto_id"])
+    ].copy()
+
+    df_orders = df_orders[
+        df_orders["cliente_id"].isin(df_clients["cliente_id"])
+    ].copy()
 
     return df_orders

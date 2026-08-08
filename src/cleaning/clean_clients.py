@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from src.utils.state import normalize_state
 
 def clean_clients (df):
     df_clients = df.copy()
@@ -53,5 +54,15 @@ def clean_clients (df):
         )
 
     df_clients["cidade"] = df_clients['cidade'].fillna("Invalido")
+
+    df_clients["estado"] = (
+        df_clients["estado"]
+        .apply(normalize_state)
+    )
+
+    df_clients['estado'] = (
+        df_clients['estado']
+        .replace("INVALIDO", np.nan)
+    )
 
     return df_clients

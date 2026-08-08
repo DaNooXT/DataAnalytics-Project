@@ -10,7 +10,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 9,Beatriz,Melo,M,48.0,beatriz.melo546@hotmail.com,(44)99645-7932,Porto Alegre,CE,23-02-16
 10,Fernando,Monteiro,F,59.0,fernando.monteiro231@gmail.com,(39)91117-2163,Campinas,PR,22-05-26
 11,Camila,Monteiro,M,49.0,camila.monteiro904@yahoo.com.br,(23)92588-8062,Joinville,CE,22-04-21
-12,Theo,Santos,F,21.0,theo.santos112@hotmail.com,(34)95563-8579,Caxias do Sul,Sao Paulo,22-04-14
+12,Theo,Santos,F,21.0,theo.santos112@hotmail.com,(34)95563-8579,Caxias do Sul,PA,22-04-14
 13,Bianca,Silva,M,80.0,bianca.silva498@yahoo.com.br,Invalido,São Paulo,ES,24-07-20
 15,Marcos,Pereira,M,22.0,marcos.pereira965@hotmail.com,Invalido,Rio de Janeiro,MT,23-10-10
 16,Amanda,Monteiro,F,63.0,amanda.monteiro688@outlook.com,(12)98508-2638,Rio de Janeiro,MG,23-12-16
@@ -36,20 +36,20 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 39,Carlos,Ferreira,M,36.0,carlos.ferreira726@hotmail.com,(27)99042-2680,São Paulo,GO,23-11-29
 40,Pedro,Rodrigues,M,78.0,invalido,(49)92395-5066,Niterói,MS,23-04-08
 44,Bernardo,Melo,F,55.0,bernardo.melo782@hotmail.com,(34)98141-9056,Rio de Janeiro,PR,22-08-03
-45,Diego,Martins,F,62.0,diego.martins564@gmail.com,(62)99431-1018,Recife,Rs,24-10-17
+45,Diego,Martins,F,62.0,diego.martins564@gmail.com,(62)99431-1018,Recife,RS,24-10-17
 46,Murilo,Souza,M,31.0,murilo.souza449@yahoo.com.br,(41)93594-6091,Invalido,RS,22-08-21
 47,Paulo,Ribeiro,F,71.0,paulo.ribeiro280@yahoo.com.br,(81)93369-7284,Porto Alegre,MG,22-05-23
 48,Roberto,Nascimento,F,77.0,roberto.nascimento290@outlook.com,(30)98316-9824,Cuiabá,MT,24-02-12
 49,Bruno,Ferreira,F,80.0,invalido,(60)93492-9115,Campinas,PR,22-07-25
 50,Eduardo,Santos,M,51.0,invalido,(94)92315-6383,Recife,CE,24-09-26
-51,João,Correia,F,22.0,invalido,(23)98269-3725,Londrina,São Paulo,23-08-24
+51,João,Correia,F,22.0,invalido,(23)98269-3725,Londrina,PA,23-08-24
 52,Daniel,Lima,M,33.0,daniel.lima81@yahoo.com.br,(29)94804-8555,Curitiba,ES,24-08-10
 54,Camila,Silva,M,54.0,camila.silva764@yahoo.com.br,(40)96772-4588,Porto Alegre,CE,22-10-08
 55,Arthur,Ribeiro,F,48.0,arthur.ribeiro374@hotmail.com,(33)94289-3165,Recife,MT,23-07-13
-56,Larissa,Dias,F,79.0,larissa.dias480@gmail.com,(97)97511-6992,Rio de Janeiro,Sao Paulo,24-07-20
+56,Larissa,Dias,F,79.0,larissa.dias480@gmail.com,(97)97511-6992,Rio de Janeiro,PA,24-07-20
 57,Nicolas,Monteiro,F,34.0,invalido,(93)92035-8606,Londrina,SP,22-03-18
 58,Vanessa,Santos,M,24.0,vanessa.santos380@yahoo.com.br,(94)92622-9017,Vitória,SP,24-01-29
-59,Eduardo,Costa,F,72.0,invalido,(69)92501-4475,Vitória,Rs,23-05-14
+59,Eduardo,Costa,F,72.0,invalido,(69)92501-4475,Vitória,RS,23-05-14
 60,Tatiane,Ferreira,M,22.0,tatiane.ferreira833@hotmail.com,(11)95542-3370,Belo Horizonte,RJ,22-02-22
 61,Vinicius,Costa,M,55.0,vinicius.costa130@yahoo.com.br,(57)99408-2786,Goiânia,SP,24-12-03
 62,Theo,Silva,F,21.0,theo.silva111@yahoo.com.br,(52)93430-2076,Belo Horizonte,MT,23-10-28
@@ -79,10 +79,10 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 88,João,Freitas,F,73.0,invalido,(97)93621-1510,Belo Horizonte,GO,22-03-13
 90,Vanessa,Barbosa,M,42.0,vanessa.barbosa267@yahoo.com.br,(73)94279-3009,Belo Horizonte,CE,24-06-30
 91,Bernardo,Nascimento,M,60.0,bernardo.nascimento298@outlook.com,(92)93852-6922,Campo Grande,ES,22-10-12
-92,Vanessa,Silva,F,41.0,vanessa.silva565@hotmail.com,(72)99612-7730,Feira de Santana,Rs,22-06-01
+92,Vanessa,Silva,F,41.0,vanessa.silva565@hotmail.com,(72)99612-7730,Feira de Santana,RS,22-06-01
 93,Bernardo,Barbosa,M,40.0,bernardo.barbosa133@yahoo.com.br,(77)93507-5982,Uberlândia,RS,23-12-10
 94,Aline,Almeida,F,48.0,aline.almeida311@gmail.com,(30)93804-6531,Invalido,RJ,22-04-04
-95,Caio,Melo,F,34.0,caio.melo32@yahoo.com.br,(49)98912-5012,Salvador,São Paulo,22-11-20
+95,Caio,Melo,F,34.0,caio.melo32@yahoo.com.br,(49)98912-5012,Salvador,PA,22-11-20
 96,Patricia,Rocha,M,31.0,patricia.rocha736@outlook.com,(27)97070-9437,Recife,RJ,23-07-02
 97,Gabriel,Santos,F,21.0,gabriel.santos429@hotmail.com,(84)96123-4110,Uberlândia,GO,23-09-24
 98,Marcos,Gomes,M,50.0,invalido,(97)98710-5681,Invalido,MG,23-06-26
@@ -92,13 +92,13 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 102,Enzo,Souza,F,55.0,invalido,(64)93481-7765,Porto Alegre,GO,22-05-08
 103,Aline,Ferreira,F,53.0,aline.ferreira322@hotmail.com,(97)95331-8932,Porto Alegre,SC,23-04-06
 104,Laura,Moreira,F,36.0,laura.moreira358@outlook.com,(61)96654-3399,Invalido,RJ,23-12-11
-105,Theo,Rodrigues,M,65.0,theo.rodrigues278@outlook.com,(42)91831-9700,Caxias do Sul,Santa Catarina,23-11-08
+105,Theo,Rodrigues,M,65.0,theo.rodrigues278@outlook.com,(42)91831-9700,Caxias do Sul,SC,23-11-08
 106,Carlos,Monteiro,M,67.0,carlos.monteiro958@yahoo.com.br,(52)95676-1969,Rio de Janeiro,CE,22-03-18
 107,Felipe,Martins,M,74.0,felipe.martins407@yahoo.com.br,(48)91613-1151,Londrina,PR,23-08-06
 108,Theo,Araujo,M,51.0,theo.araujo480@outlook.com,(69)95215-4050,São Paulo,MS,23-01-31
 109,Arthur,Gomes,F,70.0,arthur.gomes686@gmail.com,(42)91111-5272,Salvador,PR,23-09-11
 110,Tatiane,Silva,M,34.0,tatiane.silva122@yahoo.com.br,(50)92923-5833,Joinville,MG,24-09-06
-111,Nicolas,Correia,F,41.0,nicolas.correia822@hotmail.com,(21)99609-8319,Campo Grande,Sao Paulo,22-05-07
+111,Nicolas,Correia,F,41.0,nicolas.correia822@hotmail.com,(21)99609-8319,Campo Grande,PA,22-05-07
 113,Bernardo,Almeida,M,48.0,invalido,(18)92130-8734,Campinas,MG,24-05-10
 114,Ricardo,Rocha,F,73.0,ricardo.rocha700@hotmail.com,(79)97439-9664,Belo Horizonte,SP,22-02-16
 115,Luiz,Monteiro,F,64.0,luiz.monteiro254@yahoo.com.br,(25)91527-7868,Vitória,SP,23-05-08
@@ -133,18 +133,18 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 145,Bianca,Rodrigues,F,56.0,bianca.rodrigues300@outlook.com,(97)92560-3221,Feira de Santana,PE,22-09-17
 146,Mateus,Costa,M,27.0,mateus.costa693@yahoo.com.br,(64)97146-8405,Rio de Janeiro,RJ,24-04-05
 147,Camila,Teixeira,F,77.0,camila.teixeira336@gmail.com,(69)96869-2037,Recife,RS,24-10-10
-148,Isabela,Nascimento,F,53.0,invalido,Invalido,Uberlândia,Santa Catarina,23-02-19
+148,Isabela,Nascimento,F,53.0,invalido,Invalido,Uberlândia,SC,23-02-19
 149,Mateus,Ribeiro,F,37.0,mateus.ribeiro370@outlook.com,(17)97493-6005,Caxias do Sul,RJ,22-01-03
 150,Lucas,Lima,F,48.0,lucas.lima713@outlook.com,(27)98826-2160,Caxias do Sul,RJ,22-07-31
 151,Laura,Lima,M,42.0,invalido,Invalido,Uberlândia,PE,22-11-07
 152,Miguel,Monteiro,M,46.0,miguel.monteiro144@gmail.com,(51)93290-5059,Curitiba,MS,23-08-07
 153,Samuel,Silva,F,72.0,samuel.silva622@hotmail.com,Invalido,Cuiabá,PE,22-05-26
-154,Ana,Carvalho,F,77.0,ana.carvalho583@yahoo.com.br,(20)91273-2106,São Paulo,São Paulo,24-03-26
+154,Ana,Carvalho,F,77.0,ana.carvalho583@yahoo.com.br,(20)91273-2106,São Paulo,PA,24-03-26
 155,Arthur,Teixeira,F,50.0,arthur.teixeira85@hotmail.com,(37)93545-9788,Florianópolis,PE,22-05-16
 156,Daniel,Freitas,M,79.0,daniel.freitas947@yahoo.com.br,Invalido,Invalido,SP,22-12-02
 157,Vinicius,Barbosa,F,51.0,vinicius.barbosa130@outlook.com,(53)98034-5456,Campo Grande,MS,22-06-07
 158,Renata,Carvalho,M,21.0,renata.carvalho262@gmail.com,(76)91042-1721,São Paulo,BA,22-11-04
-159,João,Araujo,F,69.0,invalido,(84)97108-2956,Campo Grande,Rio,24-11-22
+159,João,Araujo,F,69.0,invalido,(84)97108-2956,Campo Grande,,24-11-22
 160,Fernando,Oliveira,F,74.0,fernando.oliveira319@outlook.com,(48)95979-4974,Goiânia,ES,23-02-05
 161,Bianca,Moreira,M,68.0,bianca.moreira25@hotmail.com,(12)96488-1023,Salvador,RJ,23-02-25
 162,Beatriz,Martins,M,49.0,beatriz.martins96@gmail.com,(58)98511-2391,Fortaleza,BA,22-06-03
@@ -177,22 +177,22 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 192,Lucas,Dias,M,74.0,lucas.dias391@outlook.com,(36)96614-7704,Fortaleza,MG,23-10-10
 193,Felipe,Moreira,M,23.0,felipe.moreira60@gmail.com,(84)93595-9021,Rio de Janeiro,BA,24-04-06
 194,Patricia,Gomes,F,48.0,patricia.gomes914@outlook.com,Invalido,Caxias do Sul,SC,22-09-22
-196,Enzo,Lima,M,31.0,enzo.lima729@gmail.com,(90)91796-1785,Niterói,Sao Paulo,24-05-03
+196,Enzo,Lima,M,31.0,enzo.lima729@gmail.com,(90)91796-1785,Niterói,PA,24-05-03
 197,Paulo,Araujo,M,34.0,paulo.araujo703@gmail.com,(45)93247-7862,Niterói,SC,22-08-22
-198,Vanessa,Ferreira,F,56.0,vanessa.ferreira997@hotmail.com,(81)99132-4402,Cuiabá,Sao Paulo,22-08-15
+198,Vanessa,Ferreira,F,56.0,vanessa.ferreira997@hotmail.com,(81)99132-4402,Cuiabá,PA,22-08-15
 199,Davi,Dias,M,27.0,davi.dias104@outlook.com,(44)98606-1820,Niterói,SC,24-01-08
 200,Bruno,Martins,M,48.0,bruno.martins142@hotmail.com,(45)92522-7105,Florianópolis,GO,23-07-11
 201,Samuel,Dias,M,69.0,samuel.dias713@gmail.com,(86)98908-8178,Uberlândia,MS,22-03-01
 202,Enzo,Lima,M,48.0,invalido,Invalido,Campo Grande,MS,23-04-04
 204,Bruno,Costa,M,39.0,bruno.costa564@yahoo.com.br,(84)98341-2442,Cuiabá,GO,22-02-06
 205,Roberto,Souza,M,53.0,roberto.souza987@outlook.com,(69)96584-6953,Campinas,PR,25-02-21
-206,Helena,Dias,F,63.0,invalido,(48)99973-9552,Joinville,SP.,24-10-05
+206,Helena,Dias,F,63.0,invalido,(48)99973-9552,Joinville,SP,24-10-05
 207,Henrique,Freitas,F,64.0,henrique.freitas193@gmail.com,(35)96536-2765,Invalido,PE,22-09-10
 208,Eduardo,Rocha,M,60.0,eduardo.rocha5@gmail.com,(76)93903-3845,Belo Horizonte,MS,23-10-22
 209,Ricardo,Martins,M,80.0,ricardo.martins987@outlook.com,(63)99393-5897,Recife,MT,23-03-22
 210,Miguel,Teixeira,M,36.0,miguel.teixeira666@hotmail.com,(25)96771-8870,Fortaleza,BA,24-12-29
 212,Carlos,Correia,M,73.0,carlos.correia575@yahoo.com.br,(47)91769-7251,Salvador,PE,23-10-03
-213,Pedro,Silva,F,65.0,pedro.silva934@outlook.com,(35)95819-8353,Uberlândia,SP.,24-11-18
+213,Pedro,Silva,F,65.0,pedro.silva934@outlook.com,(35)95819-8353,Uberlândia,SP,24-11-18
 214,João,Martins,M,35.0,invalido,(30)96285-1833,Vitória,ES,25-03-18
 215,Lucas,Teixeira,M,38.0,lucas.teixeira806@hotmail.com,(39)94495-6437,Florianópolis,ES,24-12-22
 216,Carolina,Moreira,M,80.0,carolina.moreira457@hotmail.com,(16)96258-7248,Niterói,SC,22-02-20
@@ -211,16 +211,16 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 229,Mateus,Rocha,F,28.0,mateus.rocha192@hotmail.com,(40)97793-6410,Niterói,RS,22-11-27
 230,Roberto,Silva,M,48.0,invalido,(62)91305-5644,Rio de Janeiro,GO,24-09-13
 231,Roberto,Correia,M,27.0,roberto.correia524@outlook.com,(87)92127-4765,Salvador,RS,24-12-06
-232,Renata,Monteiro,M,44.0,renata.monteiro924@gmail.com,(22)98901-3135,Vitória,Santa Catarina,24-12-05
+232,Renata,Monteiro,M,44.0,renata.monteiro924@gmail.com,(22)98901-3135,Vitória,SC,24-12-05
 233,João,Teixeira,F,51.0,invalido,(84)92600-7971,Belo Horizonte,RJ,23-08-04
 234,Bianca,Martins,M,34.0,bianca.martins121@gmail.com,(63)96935-2746,Belo Horizonte,SC,25-01-02
 235,Gustavo,Correia,F,35.0,gustavo.correia424@yahoo.com.br,(50)96641-7522,Belo Horizonte,CE,23-04-16
 236,Samuel,Pereira,F,24.0,samuel.pereira821@gmail.com,Invalido,Belo Horizonte,RJ,22-05-12
 237,Gustavo,Oliveira,F,48.0,gustavo.oliveira534@outlook.com,(33)99099-8192,São Paulo,ES,24-11-27
 239,Marcos,Araujo,F,36.0,marcos.araujo836@outlook.com,(62)91076-5277,Uberlândia,RJ,24-10-27
-240,Paulo,Barbosa,F,79.0,paulo.barbosa990@yahoo.com.br,(69)98548-1448,Cuiabá,Rio,23-04-16
+240,Paulo,Barbosa,F,79.0,paulo.barbosa990@yahoo.com.br,(69)98548-1448,Cuiabá,,23-04-16
 241,Roberto,Carvalho,F,51.0,roberto.carvalho96@yahoo.com.br,Invalido,Cuiabá,MS,23-07-06
-242,Nicolas,Monteiro,F,77.0,nicolas.monteiro241@hotmail.com,(42)96833-3555,Niterói,Paraná,22-01-14
+242,Nicolas,Monteiro,F,77.0,nicolas.monteiro241@hotmail.com,(42)96833-3555,Niterói,PA,22-01-14
 243,Bianca,Souza,F,72.0,bianca.souza903@outlook.com,(46)97518-4638,Fortaleza,BA,24-09-06
 244,João,Barbosa,M,40.0,invalido,Invalido,Porto Alegre,PR,23-06-16
 245,Larissa,Costa,F,35.0,larissa.costa511@yahoo.com.br,(62)95581-8384,Uberlândia,PE,23-04-14
@@ -228,13 +228,13 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 247,Bruno,Dias,M,37.0,invalido,(68)96483-5256,Joinville,ES,23-06-12
 248,Roberto,Santos,M,40.0,roberto.santos666@hotmail.com,(76)98987-8322,Rio de Janeiro,PE,22-10-24
 249,Arthur,Nascimento,F,44.0,arthur.nascimento74@gmail.com,(48)95382-7479,Curitiba,PR,24-12-02
-251,Aline,Moreira,M,23.0,aline.moreira954@yahoo.com.br,(91)93071-3150,Campo Grande,Rs,23-10-29
+251,Aline,Moreira,M,23.0,aline.moreira954@yahoo.com.br,(91)93071-3150,Campo Grande,RS,23-10-29
 252,Luiz,Araujo,F,77.0,luiz.araujo972@hotmail.com,(83)98126-9576,Recife,MT,23-04-11
 253,Eduardo,Almeida,M,41.0,eduardo.almeida1@hotmail.com,Invalido,Cuiabá,ES,23-08-23
 254,Ana,Araujo,F,41.0,ana.araujo168@yahoo.com.br,Invalido,Campo Grande,ES,23-07-11
-255,Nicolas,Araujo,M,69.0,nicolas.araujo187@hotmail.com,(45)99060-4076,Invalido,São Paulo,23-01-16
+255,Nicolas,Araujo,M,69.0,nicolas.araujo187@hotmail.com,(45)99060-4076,Invalido,PA,23-01-16
 256,Isabela,Rodrigues,M,26.0,isabela.rodrigues155@gmail.com,(74)97084-8597,Campinas,MG,22-04-25
-257,Fernando,Oliveira,M,52.0,fernando.oliveira257@yahoo.com.br,(42)97304-8257,Caxias do Sul,Paraná,22-07-12
+257,Fernando,Oliveira,M,52.0,fernando.oliveira257@yahoo.com.br,(42)97304-8257,Caxias do Sul,PA,22-07-12
 258,Amanda,Dias,F,42.0,amanda.dias163@gmail.com,(72)95895-4255,Joinville,RS,22-08-20
 259,Daniel,Nascimento,F,18.0,invalido,(99)93539-7084,Rio de Janeiro,PE,23-11-25
 260,Murilo,Ribeiro,M,48.0,murilo.ribeiro239@outlook.com,(67)94161-1349,Salvador,SP,24-09-20
@@ -244,14 +244,14 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 264,Samuel,Melo,M,48.0,samuel.melo944@hotmail.com,(70)91994-6913,Recife,PR,22-04-30
 265,Camila,Barbosa,F,20.0,camila.barbosa222@gmail.com,(35)99621-5075,Fortaleza,CE,25-02-17
 266,Carlos,Moreira,F,58.0,carlos.moreira438@gmail.com,(54)93591-9747,Vitória,PR,25-01-31
-267,Bruno,Carvalho,F,44.0,bruno.carvalho332@hotmail.com,(43)96898-8412,Goiânia,São Paulo,23-08-06
+267,Bruno,Carvalho,F,44.0,bruno.carvalho332@hotmail.com,(43)96898-8412,Goiânia,PA,23-08-06
 268,Aline,Lima,F,74.0,invalido,(84)93534-2544,Campinas,SC,24-01-22
-269,Beatriz,Costa,M,34.0,beatriz.costa583@hotmail.com,(33)98999-2562,Vitória,Santa Catarina,22-06-10
-270,Caio,Nascimento,F,40.0,caio.nascimento889@gmail.com,(88)91187-7266,Campinas,SP.,23-11-01
-271,Fernanda,Lima,F,21.0,fernanda.lima771@gmail.com,(27)96507-2352,Cuiabá,Santa Catarina,23-06-22
+269,Beatriz,Costa,M,34.0,beatriz.costa583@hotmail.com,(33)98999-2562,Vitória,SC,22-06-10
+270,Caio,Nascimento,F,40.0,caio.nascimento889@gmail.com,(88)91187-7266,Campinas,SP,23-11-01
+271,Fernanda,Lima,F,21.0,fernanda.lima771@gmail.com,(27)96507-2352,Cuiabá,SC,23-06-22
 272,Renata,Martins,M,67.0,renata.martins203@yahoo.com.br,(78)95034-4970,Rio de Janeiro,PE,25-03-25
 273,Davi,Martins,M,45.0,davi.martins609@gmail.com,(67)93389-8216,Campinas,PE,24-02-05
-274,Enzo,Oliveira,M,25.0,enzo.oliveira949@hotmail.com,Invalido,Londrina,Rio,25-01-06
+274,Enzo,Oliveira,M,25.0,enzo.oliveira949@hotmail.com,Invalido,Londrina,,25-01-06
 275,Bianca,Barbosa,F,66.0,bianca.barbosa145@gmail.com,(43)93790-1984,Londrina,SC,22-04-19
 276,Ana,Oliveira,F,42.0,ana.oliveira20@outlook.com,(59)99331-2631,Florianópolis,RJ,23-01-17
 277,Luiz,Araujo,M,77.0,luiz.araujo543@outlook.com,(55)96765-6822,Londrina,MT,23-07-19
@@ -265,7 +265,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 285,Eduardo,Oliveira,M,64.0,eduardo.oliveira961@hotmail.com,Invalido,Fortaleza,GO,22-07-04
 286,Samuel,Ribeiro,M,76.0,samuel.ribeiro127@gmail.com,(78)97292-9383,Vitória,BA,22-03-31
 288,Vanessa,Araujo,M,48.0,vanessa.araujo676@yahoo.com.br,(11)95009-9967,Curitiba,RS,22-04-11
-289,Pedro,Ribeiro,F,48.0,pedro.ribeiro90@gmail.com,(47)93906-8460,Fortaleza,Minas,23-10-24
+289,Pedro,Ribeiro,F,48.0,pedro.ribeiro90@gmail.com,(47)93906-8460,Fortaleza,,23-10-24
 290,Ricardo,Oliveira,M,66.0,ricardo.oliveira138@gmail.com,(78)94438-4425,Vitória,PE,24-12-19
 291,Patricia,Freitas,F,62.0,patricia.freitas869@outlook.com,(27)99132-9514,Cuiabá,MS,23-04-22
 292,Julia,Silva,M,48.0,invalido,(12)94296-5614,Curitiba,MT,25-01-31
@@ -276,20 +276,20 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 297,Aline,Almeida,M,67.0,aline.almeida961@hotmail.com,Invalido,Salvador,SP,23-09-29
 298,Bernardo,Correia,F,73.0,invalido,(36)94154-5695,Curitiba,PE,22-08-29
 301,Tatiane,Lima,F,23.0,tatiane.lima318@yahoo.com.br,(89)95227-6954,Salvador,PR,23-10-28
-302,Maria,Oliveira,F,48.0,maria.oliveira175@outlook.com,(24)97646-2752,Florianópolis,Minas,24-12-27
+302,Maria,Oliveira,F,48.0,maria.oliveira175@outlook.com,(24)97646-2752,Florianópolis,,24-12-27
 303,Sofia,Martins,M,33.0,sofia.martins394@gmail.com,(66)96606-9921,Caxias do Sul,CE,25-03-21
-304,Paulo,Melo,M,56.0,paulo.melo181@outlook.com,(87)97208-6364,Cuiabá,Rio,22-10-12
+304,Paulo,Melo,M,56.0,paulo.melo181@outlook.com,(87)97208-6364,Cuiabá,,22-10-12
 306,Fernando,Lima,F,72.0,invalido,(47)91510-4854,Feira de Santana,PR,24-02-23
-307,Daniel,Araujo,F,31.0,daniel.araujo569@yahoo.com.br,(47)93056-3200,São Paulo,Paraná,24-06-13
+307,Daniel,Araujo,F,31.0,daniel.araujo569@yahoo.com.br,(47)93056-3200,São Paulo,PA,24-06-13
 308,Mateus,Oliveira,F,26.0,mateus.oliveira916@yahoo.com.br,(68)97303-6821,Caxias do Sul,MS,24-10-17
 309,Beatriz,Teixeira,F,48.0,beatriz.teixeira39@yahoo.com.br,(99)92311-3327,Campo Grande,ES,23-07-27
 310,Marcos,Barbosa,M,74.0,marcos.barbosa760@gmail.com,(89)91864-6628,Recife,MT,24-08-18
-311,Diego,Martins,F,40.0,diego.martins37@outlook.com,Invalido,Fortaleza,Minas,22-02-25
+311,Diego,Martins,F,40.0,diego.martins37@outlook.com,Invalido,Fortaleza,,22-02-25
 312,Marcos,Lima,F,48.0,marcos.lima288@outlook.com,Invalido,Niterói,CE,22-11-06
 313,Gustavo,Pereira,M,34.0,gustavo.pereira819@gmail.com,(30)99125-7765,Salvador,PE,22-12-09
 314,Enzo,Carvalho,M,21.0,enzo.carvalho476@yahoo.com.br,(79)94828-7222,Salvador,BA,22-01-25
 315,Eduardo,Gomes,M,61.0,eduardo.gomes545@outlook.com,(45)96488-5429,Curitiba,MS,24-03-12
-316,Bernardo,Freitas,M,33.0,bernardo.freitas694@hotmail.com,Invalido,São Paulo,Sao Paulo,24-12-11
+316,Bernardo,Freitas,M,33.0,bernardo.freitas694@hotmail.com,Invalido,São Paulo,PA,24-12-11
 317,Eduardo,Carvalho,F,32.0,invalido,(87)92995-2965,Rio de Janeiro,PE,25-03-05
 318,Felipe,Santos,F,62.0,felipe.santos959@gmail.com,(65)96298-5216,Uberlândia,SP,24-02-23
 319,Pedro,Rodrigues,M,79.0,pedro.rodrigues504@hotmail.com,(29)99857-8065,Porto Alegre,GO,23-06-15
@@ -297,17 +297,17 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 321,Tatiane,Silva,F,50.0,tatiane.silva414@gmail.com,Invalido,Cuiabá,PR,23-11-14
 322,Fernando,Souza,M,58.0,fernando.souza874@outlook.com,(93)94327-3893,Invalido,RS,23-09-05
 323,Carlos,Ribeiro,M,62.0,carlos.ribeiro449@hotmail.com,(86)94907-9015,Salvador,SC,24-10-20
-324,Eduardo,Silva,F,20.0,eduardo.silva44@yahoo.com.br,(69)99791-3440,Fortaleza,SP.,24-09-28
+324,Eduardo,Silva,F,20.0,eduardo.silva44@yahoo.com.br,(69)99791-3440,Fortaleza,SP,24-09-28
 326,Daniel,Nascimento,F,69.0,daniel.nascimento701@hotmail.com,(16)93841-6496,Rio de Janeiro,BA,22-12-11
-327,Carolina,Pereira,M,46.0,carolina.pereira811@yahoo.com.br,Invalido,Cuiabá,Sao Paulo,23-08-05
+327,Carolina,Pereira,M,46.0,carolina.pereira811@yahoo.com.br,Invalido,Cuiabá,PA,23-08-05
 328,Caio,Dias,M,62.0,caio.dias536@yahoo.com.br,(15)93949-9190,Vitória,ES,23-09-09
 329,Ana,Araujo,M,33.0,ana.araujo884@hotmail.com,(17)94173-2846,Belo Horizonte,GO,24-10-15
-330,Davi,Souza,F,21.0,davi.souza258@outlook.com,(24)91859-9804,Uberlândia,Sao Paulo,22-05-26
-331,Enzo,Rocha,F,55.0,enzo.rocha694@outlook.com,(41)97759-4276,Salvador,Paraná,22-04-22
-332,Gabriel,Ferreira,M,77.0,gabriel.ferreira140@yahoo.com.br,(36)96503-3084,Campinas,SP.,22-08-16
+330,Davi,Souza,F,21.0,davi.souza258@outlook.com,(24)91859-9804,Uberlândia,PA,22-05-26
+331,Enzo,Rocha,F,55.0,enzo.rocha694@outlook.com,(41)97759-4276,Salvador,PA,22-04-22
+332,Gabriel,Ferreira,M,77.0,gabriel.ferreira140@yahoo.com.br,(36)96503-3084,Campinas,SP,22-08-16
 333,Luiz,Martins,M,28.0,luiz.martins619@hotmail.com,(32)94763-2416,Feira de Santana,RS,24-08-27
 335,Fernando,Dias,M,69.0,fernando.dias247@gmail.com,Invalido,Feira de Santana,SC,23-05-05
-336,Marcos,Silva,M,48.0,marcos.silva879@gmail.com,(62)94030-7068,Goiânia,Sao Paulo,24-02-28
+336,Marcos,Silva,M,48.0,marcos.silva879@gmail.com,(62)94030-7068,Goiânia,PA,24-02-28
 337,Diego,Barbosa,F,20.0,diego.barbosa628@hotmail.com,(18)99433-6963,Campinas,MS,22-03-25
 338,Felipe,Ribeiro,M,53.0,felipe.ribeiro343@hotmail.com,(85)94437-4693,Florianópolis,PE,24-05-16
 339,Lucas,Carvalho,M,40.0,lucas.carvalho545@outlook.com,(99)92075-4085,Goiânia,MG,23-08-14
@@ -368,11 +368,11 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 397,Laura,Moreira,F,48.0,laura.moreira171@hotmail.com,(13)98364-4975,Porto Alegre,BA,22-04-15
 399,Patricia,Santos,F,49.0,patricia.santos447@gmail.com,(67)94802-9317,Caxias do Sul,MS,24-08-17
 400,Isabela,Freitas,F,63.0,isabela.freitas690@outlook.com,(90)94394-5627,Rio de Janeiro,RS,22-11-17
-401,Carlos,Martins,F,78.0,carlos.martins571@gmail.com,(97)93598-3862,Invalido,Santa Catarina,22-08-22
+401,Carlos,Martins,F,78.0,carlos.martins571@gmail.com,(97)93598-3862,Invalido,SC,22-08-22
 402,Paulo,Araujo,F,32.0,paulo.araujo788@gmail.com,(99)99444-2706,Campinas,GO,22-08-16
 403,Miguel,Correia,M,68.0,miguel.correia43@gmail.com,(57)93572-5786,Goiânia,RJ,22-11-12
 404,Diego,Lima,F,25.0,diego.lima788@gmail.com,(75)93805-2396,Curitiba,PR,23-05-18
-405,Murilo,Barbosa,M,44.0,murilo.barbosa424@yahoo.com.br,(98)96927-1487,Goiânia,Sao Paulo,22-06-23
+405,Murilo,Barbosa,M,44.0,murilo.barbosa424@yahoo.com.br,(98)96927-1487,Goiânia,PA,22-06-23
 406,Fernando,Moreira,F,28.0,fernando.moreira677@hotmail.com,(95)99516-5845,Feira de Santana,MT,23-09-16
 407,Bruno,Carvalho,M,18.0,bruno.carvalho457@hotmail.com,(67)96656-7627,Porto Alegre,MT,23-11-17
 408,Enzo,Freitas,F,74.0,enzo.freitas524@outlook.com,(14)99846-5238,Caxias do Sul,BA,24-10-31
@@ -391,7 +391,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 423,Theo,Silva,M,56.0,theo.silva424@yahoo.com.br,(94)92270-9825,São Paulo,GO,22-09-10
 424,Ricardo,Correia,M,40.0,ricardo.correia380@hotmail.com,Invalido,Joinville,PE,23-09-13
 425,Fernanda,Costa,F,48.0,invalido,(75)99093-3793,Recife,PE,25-03-03
-426,Sofia,Lima,M,48.0,sofia.lima747@outlook.com,(99)99731-5143,Recife,Santa Catarina,22-04-17
+426,Sofia,Lima,M,48.0,sofia.lima747@outlook.com,(99)99731-5143,Recife,SC,22-04-17
 428,Diego,Oliveira,M,74.0,diego.oliveira232@yahoo.com.br,(53)96092-2029,Invalido,SP,23-11-16
 429,Beatriz,Santos,F,48.0,beatriz.santos842@outlook.com,Invalido,Niterói,RJ,22-05-05
 430,Ricardo,Nascimento,M,74.0,invalido,Invalido,Recife,BA,22-07-16
@@ -399,7 +399,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 432,Lucas,Melo,M,68.0,lucas.melo263@outlook.com,(42)93255-1722,Campinas,MT,24-01-03
 433,Bianca,Moreira,F,27.0,bianca.moreira299@outlook.com,(29)91939-4889,Campo Grande,SP,24-05-14
 434,Julia,Ribeiro,M,76.0,julia.ribeiro684@yahoo.com.br,(53)96499-5909,Feira de Santana,ES,22-03-28
-435,Ana,Ribeiro,F,32.0,ana.ribeiro245@yahoo.com.br,(59)94363-7558,Uberlândia,São Paulo,22-06-01
+435,Ana,Ribeiro,F,32.0,ana.ribeiro245@yahoo.com.br,(59)94363-7558,Uberlândia,PA,22-06-01
 436,Carolina,Santos,M,27.0,invalido,(39)95292-3855,Florianópolis,RS,22-02-14
 437,Larissa,Santos,M,19.0,larissa.santos807@gmail.com,(58)97100-3807,Campo Grande,BA,22-05-14
 438,Mateus,Ferreira,F,30.0,mateus.ferreira440@hotmail.com,(79)95819-3434,Florianópolis,SC,22-09-16
@@ -408,7 +408,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 441,Marcos,Lima,F,66.0,marcos.lima236@gmail.com,(70)98086-7700,Joinville,BA,22-02-20
 442,Fernanda,Rodrigues,F,48.0,fernanda.rodrigues526@gmail.com,(20)96902-1627,Recife,PR,23-05-28
 443,Caio,Monteiro,M,72.0,invalido,(62)97647-1194,Cuiabá,MG,24-03-25
-444,Enzo,Freitas,F,31.0,enzo.freitas473@outlook.com,(64)94433-8187,Goiânia,SP.,25-03-28
+444,Enzo,Freitas,F,31.0,enzo.freitas473@outlook.com,(64)94433-8187,Goiânia,SP,25-03-28
 445,Laura,Freitas,F,18.0,laura.freitas430@yahoo.com.br,(79)95909-6342,Invalido,MG,22-11-11
 446,Diego,Melo,F,58.0,invalido,(83)98397-5991,Rio de Janeiro,MG,22-03-07
 447,Helena,Dias,M,19.0,helena.dias396@outlook.com,(69)91941-7039,Invalido,BA,24-03-11
@@ -431,7 +431,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 467,Marcos,Barbosa,F,76.0,marcos.barbosa438@outlook.com,(59)96045-7743,Rio de Janeiro,ES,23-12-07
 468,Camila,Freitas,F,31.0,camila.freitas7@hotmail.com,Invalido,Rio de Janeiro,BA,23-08-14
 469,Rafael,Pereira,M,41.0,rafael.pereira187@gmail.com,(18)93993-4143,Curitiba,GO,22-08-12
-470,Rafael,Oliveira,M,36.0,rafael.oliveira351@gmail.com,(23)91155-2000,Curitiba,São Paulo,22-07-18
+470,Rafael,Oliveira,M,36.0,rafael.oliveira351@gmail.com,(23)91155-2000,Curitiba,PA,22-07-18
 471,Ana,Gomes,F,56.0,ana.gomes485@outlook.com,(54)96164-4925,Joinville,SP,23-12-31
 472,Carlos,Silva,F,47.0,invalido,(42)97036-8404,Vitória,MT,24-04-26
 473,Ana,Ribeiro,F,48.0,ana.ribeiro369@gmail.com,(40)98938-7556,Vitória,GO,22-07-25
@@ -475,7 +475,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 512,Fernanda,Freitas,M,64.0,fernanda.freitas96@yahoo.com.br,(35)99036-3955,Invalido,MG,24-03-18
 513,Julia,Oliveira,F,48.0,julia.oliveira994@yahoo.com.br,(12)92633-7191,Invalido,ES,22-03-31
 514,Caio,Oliveira,M,35.0,caio.oliveira10@gmail.com,(21)94314-3281,Cuiabá,MG,23-09-22
-515,Gabriel,Costa,F,21.0,gabriel.costa127@gmail.com,(76)97804-3323,São Paulo,Santa Catarina,24-02-29
+515,Gabriel,Costa,F,21.0,gabriel.costa127@gmail.com,(76)97804-3323,São Paulo,SC,24-02-29
 516,Theo,Almeida,F,32.0,theo.almeida733@gmail.com,(47)96854-2249,Vitória,RJ,22-03-30
 517,Felipe,Martins,M,51.0,felipe.martins154@outlook.com,(45)99179-7047,Curitiba,RJ,22-01-05
 518,Gabriel,Moreira,M,59.0,gabriel.moreira739@yahoo.com.br,(46)93370-2481,Florianópolis,BA,23-12-24
@@ -496,7 +496,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 537,Sofia,Santos,M,20.0,sofia.santos560@hotmail.com,(35)91235-7066,Invalido,MT,22-09-13
 538,Theo,Rocha,F,44.0,theo.rocha437@outlook.com,(33)93664-9892,Feira de Santana,CE,24-06-14
 539,Samuel,Correia,M,78.0,samuel.correia826@gmail.com,Invalido,Feira de Santana,MS,25-01-20
-541,Fernanda,Barbosa,F,36.0,fernanda.barbosa925@yahoo.com.br,Invalido,Invalido,Rs,24-11-28
+541,Fernanda,Barbosa,F,36.0,fernanda.barbosa925@yahoo.com.br,Invalido,Invalido,RS,24-11-28
 542,Helena,Nascimento,F,39.0,helena.nascimento997@yahoo.com.br,(84)98030-3111,Salvador,PR,24-11-25
 544,Marcos,Melo,F,48.0,marcos.melo797@outlook.com,(35)99772-5018,Salvador,SC,22-06-19
 545,Arthur,Silva,M,58.0,arthur.silva950@gmail.com,(22)92267-9097,Joinville,RJ,24-10-02
@@ -509,26 +509,26 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 554,Lucas,Dias,F,24.0,lucas.dias282@outlook.com,(51)99090-1771,Salvador,GO,22-09-06
 555,Miguel,Santos,M,19.0,miguel.santos331@yahoo.com.br,(58)99807-1080,Campinas,RJ,22-04-09
 556,Lucas,Rodrigues,F,39.0,lucas.rodrigues175@hotmail.com,(29)97771-8320,Niterói,GO,24-09-30
-557,Bruno,Moreira,M,64.0,bruno.moreira304@gmail.com,(93)94373-2278,Rio de Janeiro,São Paulo,23-03-19
+557,Bruno,Moreira,M,64.0,bruno.moreira304@gmail.com,(93)94373-2278,Rio de Janeiro,PA,23-03-19
 558,Ricardo,Ferreira,M,49.0,ricardo.ferreira780@outlook.com,(30)99265-2731,Belo Horizonte,GO,24-11-17
 559,Fernando,Ferreira,M,22.0,fernando.ferreira975@gmail.com,(41)91271-8550,Uberlândia,MT,24-07-16
 560,Paulo,Araujo,M,23.0,paulo.araujo515@yahoo.com.br,(23)91805-7267,Feira de Santana,MG,23-07-20
 561,Vanessa,Barbosa,M,45.0,vanessa.barbosa982@gmail.com,Invalido,Caxias do Sul,RS,24-04-08
 562,Carlos,Costa,F,64.0,carlos.costa176@hotmail.com,(11)92544-4032,Campo Grande,CE,23-09-18
-563,Samuel,Costa,M,28.0,samuel.costa341@yahoo.com.br,Invalido,Cuiabá,Minas,22-06-07
+563,Samuel,Costa,M,28.0,samuel.costa341@yahoo.com.br,Invalido,Cuiabá,,22-06-07
 564,Murilo,Silva,F,56.0,murilo.silva501@hotmail.com,Invalido,São Paulo,RS,24-12-11
 565,Murilo,Lima,F,67.0,murilo.lima344@yahoo.com.br,(95)98970-5153,Joinville,SC,23-11-15
 566,Caio,Monteiro,F,72.0,caio.monteiro703@gmail.com,(29)96852-9156,São Paulo,BA,24-01-07
 567,Marcos,Ferreira,M,76.0,marcos.ferreira899@yahoo.com.br,(97)96715-6426,Salvador,SC,23-09-26
 568,Sofia,Barbosa,M,62.0,sofia.barbosa466@outlook.com,(98)93410-8640,Belo Horizonte,MT,22-11-30
-569,Isabela,Oliveira,F,48.0,invalido,Invalido,Joinville,Minas,22-10-10
+569,Isabela,Oliveira,F,48.0,invalido,Invalido,Joinville,,22-10-10
 570,Isabela,Barbosa,M,60.0,isabela.barbosa731@outlook.com,(21)95764-4585,Campinas,ES,24-03-02
 571,Carlos,Rodrigues,F,76.0,carlos.rodrigues447@outlook.com,(43)93223-7820,Recife,SC,25-03-06
 572,Luiz,Araujo,F,29.0,luiz.araujo540@yahoo.com.br,(56)98673-6803,Feira de Santana,GO,22-02-26
 573,Maria,Moreira,M,44.0,maria.moreira310@hotmail.com,(83)95806-1877,Salvador,GO,24-11-26
 574,Pedro,Oliveira,M,21.0,pedro.oliveira100@outlook.com,(26)99369-1868,Porto Alegre,GO,22-10-07
 575,Bernardo,Ribeiro,F,72.0,bernardo.ribeiro960@gmail.com,(19)91000-3507,Vitória,RS,23-02-23
-576,Maria,Barbosa,M,46.0,maria.barbosa496@hotmail.com,(89)98194-3018,Feira de Santana,SP.,23-05-08
+576,Maria,Barbosa,M,46.0,maria.barbosa496@hotmail.com,(89)98194-3018,Feira de Santana,SP,23-05-08
 577,Nicolas,Teixeira,F,52.0,nicolas.teixeira684@gmail.com,(61)97321-2758,Goiânia,SP,23-08-04
 578,Tatiane,Gomes,M,18.0,invalido,(69)95536-1149,Uberlândia,MT,23-03-08
 579,Henrique,Barbosa,M,42.0,henrique.barbosa361@outlook.com,(95)95963-7454,Rio de Janeiro,BA,24-08-24
@@ -536,25 +536,25 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 581,Fernanda,Moreira,M,69.0,fernanda.moreira902@hotmail.com,(19)92014-5103,Invalido,GO,24-02-06
 582,Maria,Pereira,F,38.0,maria.pereira653@hotmail.com,(39)94296-3655,Feira de Santana,RS,22-06-26
 583,Arthur,Monteiro,M,24.0,arthur.monteiro369@yahoo.com.br,(98)99653-9129,Porto Alegre,GO,24-10-22
-584,Miguel,Araujo,M,72.0,miguel.araujo641@yahoo.com.br,(77)95886-2653,Niterói,Rs,22-02-16
+584,Miguel,Araujo,M,72.0,miguel.araujo641@yahoo.com.br,(77)95886-2653,Niterói,RS,22-02-16
 585,Isabela,Rodrigues,M,42.0,invalido,(89)99192-6115,Salvador,RJ,25-04-08
 586,Larissa,Ribeiro,F,48.0,larissa.ribeiro910@gmail.com,(95)92021-4860,Cuiabá,MS,22-03-14
 587,Lucas,Martins,M,56.0,lucas.martins491@hotmail.com,Invalido,Campinas,PR,24-06-02
 588,Fernanda,Silva,F,48.0,fernanda.silva756@gmail.com,(27)98040-7993,Recife,MS,24-01-24
-589,Diego,Martins,M,48.0,diego.martins233@yahoo.com.br,(83)91750-1244,Caxias do Sul,SP.,24-06-17
+589,Diego,Martins,M,48.0,diego.martins233@yahoo.com.br,(83)91750-1244,Caxias do Sul,SP,24-06-17
 590,João,Nascimento,M,40.0,invalido,Invalido,Recife,PR,23-03-28
-591,Laura,Carvalho,M,67.0,laura.carvalho274@outlook.com,Invalido,Vitória,SP.,24-12-02
+591,Laura,Carvalho,M,67.0,laura.carvalho274@outlook.com,Invalido,Vitória,SP,24-12-02
 592,Nicolas,Araujo,M,48.0,nicolas.araujo241@yahoo.com.br,(74)91553-5428,Curitiba,RJ,22-05-03
 593,Miguel,Gomes,F,48.0,miguel.gomes230@hotmail.com,(95)95999-1512,Recife,MS,23-11-20
 594,Larissa,Moreira,M,55.0,larissa.moreira850@yahoo.com.br,(18)92789-7358,Londrina,GO,24-05-18
 595,Tatiane,Moreira,F,51.0,tatiane.moreira947@hotmail.com,Invalido,Curitiba,MT,23-08-29
-596,Fernando,Souza,F,57.0,fernando.souza802@gmail.com,(44)93929-8271,Invalido,São Paulo,24-01-05
+596,Fernando,Souza,F,57.0,fernando.souza802@gmail.com,(44)93929-8271,Invalido,PA,24-01-05
 597,Carolina,Ferreira,F,48.0,carolina.ferreira565@outlook.com,(46)95252-9108,Belo Horizonte,MS,22-04-12
 599,Paulo,Barbosa,F,22.0,invalido,(52)96902-6488,Feira de Santana,SC,22-03-05
-600,João,Almeida,M,77.0,invalido,(85)96636-4520,Salvador,SP.,24-02-20
+600,João,Almeida,M,77.0,invalido,(85)96636-4520,Salvador,SP,24-02-20
 601,Theo,Oliveira,F,48.0,theo.oliveira125@gmail.com,(51)95410-4195,Fortaleza,RS,24-01-12
 602,Bruno,Freitas,M,80.0,bruno.freitas981@yahoo.com.br,(57)98932-4774,Goiânia,MG,25-01-06
-603,Roberto,Monteiro,F,55.0,roberto.monteiro350@outlook.com,(29)99096-4245,Uberlândia,Sao Paulo,24-05-07
+603,Roberto,Monteiro,F,55.0,roberto.monteiro350@outlook.com,(29)99096-4245,Uberlândia,PA,24-05-07
 604,Carolina,Teixeira,M,77.0,invalido,(78)97358-7919,Joinville,RS,23-08-24
 605,Diego,Melo,M,56.0,diego.melo943@outlook.com,(66)95739-8816,Belo Horizonte,MS,24-11-09
 606,Ana,Melo,F,55.0,ana.melo450@hotmail.com,(23)94805-5871,Cuiabá,MT,25-04-02
@@ -567,7 +567,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 613,Fernanda,Almeida,F,60.0,fernanda.almeida557@yahoo.com.br,(47)97874-8326,Florianópolis,MG,24-08-09
 614,Davi,Santos,M,40.0,davi.santos496@yahoo.com.br,Invalido,Campo Grande,BA,22-05-05
 615,Bruno,Rodrigues,F,61.0,bruno.rodrigues436@yahoo.com.br,(39)96567-1747,Londrina,MG,25-01-02
-617,Aline,Ferreira,M,41.0,aline.ferreira406@hotmail.com,(63)94532-5074,Invalido,Sao Paulo,24-10-24
+617,Aline,Ferreira,M,41.0,aline.ferreira406@hotmail.com,(63)94532-5074,Invalido,PA,24-10-24
 619,Helena,Lima,F,24.0,helena.lima621@outlook.com,(49)95490-8518,Porto Alegre,MS,24-08-23
 620,Daniel,Oliveira,F,32.0,daniel.oliveira930@hotmail.com,(58)99955-2774,Goiânia,BA,23-04-21
 621,Patricia,Melo,F,24.0,patricia.melo646@gmail.com,(73)95095-2374,Belo Horizonte,MT,25-03-06
@@ -577,7 +577,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 626,Laura,Teixeira,M,30.0,invalido,Invalido,Joinville,SC,23-08-06
 627,Daniel,Melo,F,64.0,invalido,(33)95307-2676,Belo Horizonte,ES,24-02-24
 628,Caio,Melo,F,56.0,caio.melo3@hotmail.com,(29)93348-3700,Cuiabá,SP,22-10-08
-629,Eduardo,Martins,F,60.0,eduardo.martins121@hotmail.com,(71)96816-6107,Campo Grande,Rio,22-12-07
+629,Eduardo,Martins,F,60.0,eduardo.martins121@hotmail.com,(71)96816-6107,Campo Grande,,22-12-07
 630,Camila,Teixeira,F,27.0,camila.teixeira808@outlook.com,(55)93916-1414,Joinville,PR,24-05-18
 631,Carolina,Ferreira,M,42.0,invalido,(43)99237-1212,Vitória,PE,24-09-07
 632,Samuel,Teixeira,M,34.0,samuel.teixeira844@gmail.com,(91)98446-9033,Uberlândia,ES,25-01-22
@@ -586,7 +586,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 636,Arthur,Silva,M,67.0,arthur.silva384@yahoo.com.br,(98)94130-3174,Londrina,MG,23-07-26
 637,Bruno,Martins,F,32.0,bruno.martins182@outlook.com,(56)96957-6715,Campo Grande,MG,22-03-17
 638,Sofia,Gomes,M,27.0,sofia.gomes445@outlook.com,(54)99253-5406,Rio de Janeiro,RS,24-08-15
-639,Paulo,Barbosa,F,60.0,paulo.barbosa601@outlook.com,(15)96281-2713,Joinville,Santa Catarina,24-08-31
+639,Paulo,Barbosa,F,60.0,paulo.barbosa601@outlook.com,(15)96281-2713,Joinville,SC,24-08-31
 640,Theo,Santos,F,29.0,theo.santos560@hotmail.com,(86)98126-7542,Cuiabá,PR,23-11-23
 641,Fernando,Almeida,M,20.0,fernando.almeida923@gmail.com,(62)91467-3687,Campo Grande,MS,24-12-09
 642,Tatiane,Moreira,F,26.0,tatiane.moreira56@gmail.com,(69)97487-3708,Invalido,MG,23-09-10
@@ -599,7 +599,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 649,Luiz,Almeida,F,20.0,luiz.almeida52@outlook.com,(14)99892-5378,Uberlândia,GO,23-10-27
 650,João,Correia,M,25.0,invalido,(29)99084-8063,Curitiba,MS,23-05-15
 651,Enzo,Barbosa,M,54.0,enzo.barbosa40@hotmail.com,(23)97257-9398,Rio de Janeiro,SC,24-05-15
-652,Felipe,Freitas,M,34.0,felipe.freitas444@gmail.com,(89)99422-9833,Caxias do Sul,Paraná,23-03-17
+652,Felipe,Freitas,M,34.0,felipe.freitas444@gmail.com,(89)99422-9833,Caxias do Sul,PA,23-03-17
 653,Daniel,Rodrigues,M,65.0,daniel.rodrigues688@gmail.com,(45)91082-7671,Invalido,MG,23-07-17
 654,Helena,Ribeiro,M,48.0,invalido,(69)97893-6386,Recife,SP,23-12-04
 655,Vinicius,Rocha,F,27.0,vinicius.rocha715@hotmail.com,Invalido,Cuiabá,RS,24-12-20
@@ -607,12 +607,12 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 657,Amanda,Ferreira,M,25.0,amanda.ferreira786@yahoo.com.br,(87)95569-6233,Joinville,PE,23-10-13
 658,Bianca,Gomes,F,32.0,bianca.gomes294@yahoo.com.br,(11)99727-6473,Goiânia,RJ,24-02-25
 659,Roberto,Martins,M,44.0,roberto.martins142@gmail.com,(52)95095-3727,Fortaleza,PR,22-02-16
-660,Theo,Gomes,M,53.0,theo.gomes166@yahoo.com.br,(36)96287-3173,Londrina,Paraná,24-07-29
+660,Theo,Gomes,M,53.0,theo.gomes166@yahoo.com.br,(36)96287-3173,Londrina,PA,24-07-29
 661,Helena,Rocha,F,33.0,helena.rocha114@outlook.com,(19)91112-1529,Feira de Santana,BA,22-05-25
 662,Larissa,Teixeira,M,52.0,larissa.teixeira848@gmail.com,(16)96953-7544,Campo Grande,ES,22-09-12
 663,Larissa,Moreira,M,70.0,larissa.moreira376@yahoo.com.br,(72)94442-5333,Niterói,GO,24-10-03
 664,Murilo,Rodrigues,F,39.0,murilo.rodrigues462@outlook.com,(29)99548-5725,São Paulo,PR,23-08-20
-665,Henrique,Pereira,F,54.0,henrique.pereira690@outlook.com,(88)95789-7295,Curitiba,Rio,25-04-09
+665,Henrique,Pereira,F,54.0,henrique.pereira690@outlook.com,(88)95789-7295,Curitiba,,25-04-09
 666,Sofia,Silva,F,34.0,sofia.silva922@hotmail.com,(75)96149-9574,Joinville,PE,22-12-13
 667,Patricia,Pereira,M,48.0,patricia.pereira67@outlook.com,(88)92959-4226,Joinville,PE,22-01-25
 668,Aline,Costa,M,65.0,aline.costa102@outlook.com,(79)92301-1917,Goiânia,SC,23-01-10
@@ -623,7 +623,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 673,Eduardo,Nascimento,M,58.0,eduardo.nascimento112@hotmail.com,(78)98731-2686,Londrina,PE,22-11-13
 674,Julia,Moreira,M,43.0,julia.moreira161@outlook.com,(64)95413-4747,Curitiba,SC,24-01-30
 675,Diego,Freitas,F,40.0,diego.freitas436@yahoo.com.br,Invalido,Salvador,PE,22-10-14
-677,Bruno,Freitas,F,48.0,bruno.freitas970@gmail.com,(73)95093-5589,Vitória,São Paulo,23-12-03
+677,Bruno,Freitas,F,48.0,bruno.freitas970@gmail.com,(73)95093-5589,Vitória,PA,23-12-03
 678,Gustavo,Rocha,F,77.0,gustavo.rocha768@gmail.com,(30)93464-5896,Fortaleza,RS,23-11-03
 679,Murilo,Monteiro,F,34.0,murilo.monteiro144@gmail.com,(57)98304-4519,Uberlândia,PR,23-11-14
 680,Henrique,Rodrigues,M,34.0,henrique.rodrigues658@yahoo.com.br,(78)91987-9392,Invalido,SP,24-10-29
@@ -656,20 +656,20 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 709,Carlos,Freitas,F,70.0,carlos.freitas995@gmail.com,(42)99978-3539,Invalido,CE,23-03-25
 710,Fernanda,Rocha,M,48.0,fernanda.rocha250@gmail.com,(82)94149-7755,Uberlândia,PE,25-03-24
 711,Ricardo,Freitas,F,34.0,ricardo.freitas270@yahoo.com.br,(51)99853-6850,Rio de Janeiro,CE,23-05-21
-712,Sofia,Lima,F,24.0,sofia.lima108@hotmail.com,(81)94669-8623,Curitiba,Paraná,24-10-15
+712,Sofia,Lima,F,24.0,sofia.lima108@hotmail.com,(81)94669-8623,Curitiba,PA,24-10-15
 713,Lucas,Pereira,M,19.0,invalido,(83)95128-1451,Vitória,MG,24-03-22
 714,Eduardo,Almeida,F,52.0,eduardo.almeida584@yahoo.com.br,(51)91111-1867,Joinville,RJ,22-05-11
 715,Enzo,Pereira,M,64.0,enzo.pereira31@yahoo.com.br,(62)97347-7677,Salvador,PR,23-01-10
 716,Vinicius,Pereira,F,63.0,vinicius.pereira189@outlook.com,(92)92336-6565,Goiânia,SP,22-05-05
 717,Pedro,Monteiro,M,41.0,invalido,(83)97141-2136,Uberlândia,MG,25-01-01
-718,Vinicius,Santos,M,73.0,vinicius.santos588@hotmail.com,(33)99312-3438,Invalido,Sao Paulo,23-10-01
+718,Vinicius,Santos,M,73.0,vinicius.santos588@hotmail.com,(33)99312-3438,Invalido,PA,23-10-01
 719,Carlos,Carvalho,M,61.0,carlos.carvalho510@hotmail.com,(69)99978-7370,Goiânia,RJ,23-11-24
 720,Gabriel,Costa,M,79.0,invalido,(86)92618-9517,Rio de Janeiro,MT,25-02-27
 721,Bianca,Barbosa,M,43.0,bianca.barbosa139@yahoo.com.br,(62)98129-7177,Rio de Janeiro,PR,25-02-23
 722,Ricardo,Almeida,F,49.0,ricardo.almeida716@gmail.com,Invalido,Rio de Janeiro,MS,25-01-16
 723,Bruno,Freitas,M,21.0,bruno.freitas395@hotmail.com,(98)98107-9329,Campo Grande,PE,22-04-02
-724,Carlos,Rocha,M,78.0,carlos.rocha75@hotmail.com,(16)97250-4375,Niterói,Rio,23-11-09
-725,Ricardo,Costa,F,48.0,ricardo.costa146@hotmail.com,(98)96074-4356,Curitiba,Santa Catarina,24-02-12
+724,Carlos,Rocha,M,78.0,carlos.rocha75@hotmail.com,(16)97250-4375,Niterói,,23-11-09
+725,Ricardo,Costa,F,48.0,ricardo.costa146@hotmail.com,(98)96074-4356,Curitiba,SC,24-02-12
 726,Julia,Moreira,M,49.0,julia.moreira405@gmail.com,(39)92155-2874,Niterói,RJ,23-01-11
 727,Rafael,Freitas,F,34.0,rafael.freitas294@outlook.com,(61)94311-2417,Recife,MT,22-03-15
 731,Tatiane,Souza,M,70.0,tatiane.souza781@gmail.com,(71)97325-5627,Vitória,RS,24-10-01
@@ -677,7 +677,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 734,Aline,Ferreira,M,33.0,aline.ferreira971@outlook.com,(63)97140-6028,Porto Alegre,MT,24-07-15
 735,Caio,Correia,F,48.0,caio.correia161@yahoo.com.br,(14)94382-7323,Fortaleza,CE,25-02-27
 737,Diego,Oliveira,F,38.0,diego.oliveira155@hotmail.com,(51)98317-8783,Florianópolis,RJ,25-02-24
-738,Gabriel,Pereira,F,44.0,gabriel.pereira566@yahoo.com.br,(42)92857-3402,Goiânia,Santa Catarina,24-08-26
+738,Gabriel,Pereira,F,44.0,gabriel.pereira566@yahoo.com.br,(42)92857-3402,Goiânia,SC,24-08-26
 739,Rafael,Moreira,F,19.0,rafael.moreira599@hotmail.com,Invalido,Cuiabá,PR,22-06-24
 740,Lucas,Pereira,F,26.0,lucas.pereira114@hotmail.com,(21)96811-9105,São Paulo,MG,24-01-18
 741,Julia,Barbosa,M,35.0,invalido,(66)96529-1662,Curitiba,GO,22-06-14
@@ -721,14 +721,14 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 784,Samuel,Gomes,M,18.0,samuel.gomes682@outlook.com,Invalido,Belo Horizonte,GO,23-03-14
 785,Patricia,Dias,M,48.0,patricia.dias649@gmail.com,(19)98826-9411,Rio de Janeiro,ES,24-04-26
 786,Gustavo,Costa,M,70.0,gustavo.costa44@outlook.com,Invalido,Joinville,RS,22-09-18
-787,Renata,Martins,M,59.0,renata.martins534@outlook.com,(64)92086-2390,Belo Horizonte,Minas,24-03-16
+787,Renata,Martins,M,59.0,renata.martins534@outlook.com,(64)92086-2390,Belo Horizonte,,24-03-16
 788,Theo,Nascimento,F,37.0,theo.nascimento876@yahoo.com.br,(99)93248-8689,Florianópolis,PR,24-12-27
 789,Arthur,Oliveira,F,34.0,arthur.oliveira609@hotmail.com,(83)94133-6710,Londrina,PE,24-04-22
 790,Helena,Martins,M,60.0,helena.martins705@outlook.com,(81)96261-4349,Goiânia,CE,23-08-20
 791,Amanda,Correia,F,68.0,amanda.correia664@yahoo.com.br,(83)98521-9804,Florianópolis,SC,22-09-12
 792,Carolina,Gomes,F,48.0,carolina.gomes564@outlook.com,(65)99020-2770,Cuiabá,MG,23-01-06
 793,Murilo,Souza,F,20.0,murilo.souza549@outlook.com,(65)94356-1654,Fortaleza,MS,23-07-22
-794,Beatriz,Costa,F,32.0,beatriz.costa363@hotmail.com,(39)93815-7279,Porto Alegre,SP.,22-07-06
+794,Beatriz,Costa,F,32.0,beatriz.costa363@hotmail.com,(39)93815-7279,Porto Alegre,SP,22-07-06
 795,Miguel,Rodrigues,M,69.0,miguel.rodrigues417@hotmail.com,(39)95578-2759,São Paulo,MS,24-03-02
 796,Fernanda,Santos,F,72.0,fernanda.santos757@yahoo.com.br,Invalido,Porto Alegre,ES,24-12-09
 797,Maria,Dias,F,50.0,maria.dias382@hotmail.com,(59)93758-7619,Porto Alegre,SC,23-05-25
@@ -746,10 +746,10 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 812,Helena,Moreira,M,75.0,helena.moreira279@outlook.com,(62)91840-5920,Curitiba,RS,23-03-25
 813,Beatriz,Rocha,M,75.0,beatriz.rocha518@outlook.com,(49)92329-4973,Uberlândia,PE,22-05-16
 814,Pedro,Martins,M,43.0,pedro.martins32@outlook.com,(73)97493-4506,Salvador,RS,22-12-04
-815,Helena,Nascimento,M,55.0,helena.nascimento85@gmail.com,(93)93488-1841,São Paulo,Minas,24-01-22
+815,Helena,Nascimento,M,55.0,helena.nascimento85@gmail.com,(93)93488-1841,São Paulo,,24-01-22
 816,Samuel,Carvalho,M,60.0,samuel.carvalho318@outlook.com,(16)91003-4149,Uberlândia,GO,22-08-09
 817,Isabela,Correia,F,71.0,isabela.correia474@outlook.com,(74)94666-5648,Campinas,MG,24-08-26
-818,Vinicius,Barbosa,F,37.0,vinicius.barbosa953@hotmail.com,(37)94943-8557,Belo Horizonte,São Paulo,22-08-30
+818,Vinicius,Barbosa,F,37.0,vinicius.barbosa953@hotmail.com,(37)94943-8557,Belo Horizonte,PA,22-08-30
 819,Eduardo,Lima,F,27.0,eduardo.lima705@outlook.com,(26)95956-4436,Cuiabá,BA,23-01-28
 820,Pedro,Souza,F,71.0,pedro.souza833@yahoo.com.br,(52)98366-3177,Florianópolis,PE,23-10-07
 821,Murilo,Melo,M,73.0,murilo.melo169@outlook.com,(29)91688-3299,Caxias do Sul,SC,23-02-19
@@ -758,10 +758,10 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 824,Roberto,Rocha,M,76.0,roberto.rocha855@hotmail.com,(15)94759-5163,Salvador,SP,23-03-31
 825,Eduardo,Costa,M,48.0,invalido,(74)94496-9750,Recife,RS,24-03-07
 826,Diego,Pereira,M,52.0,diego.pereira82@outlook.com,Invalido,Curitiba,SC,24-05-01
-827,Daniel,Ferreira,M,64.0,daniel.ferreira296@outlook.com,(20)93548-2989,São Paulo,Minas,23-01-02
+827,Daniel,Ferreira,M,64.0,daniel.ferreira296@outlook.com,(20)93548-2989,São Paulo,,23-01-02
 828,Eduardo,Nascimento,F,25.0,eduardo.nascimento493@outlook.com,(33)97355-4101,Recife,MS,22-06-26
 829,Rafael,Lima,M,39.0,invalido,(76)97593-4479,Uberlândia,ES,25-04-15
-830,Lucas,Freitas,F,32.0,lucas.freitas469@yahoo.com.br,(15)98420-4081,São Paulo,Rs,23-11-25
+830,Lucas,Freitas,F,32.0,lucas.freitas469@yahoo.com.br,(15)98420-4081,São Paulo,RS,23-11-25
 831,Ana,Nascimento,M,73.0,ana.nascimento609@gmail.com,(81)96582-2962,Vitória,PE,23-10-12
 832,Bianca,Martins,M,48.0,bianca.martins681@hotmail.com,(46)96569-7750,Rio de Janeiro,GO,23-09-24
 833,Roberto,Silva,F,19.0,roberto.silva96@hotmail.com,(57)92857-2559,Curitiba,RJ,23-01-10
@@ -789,7 +789,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 857,Vinicius,Nascimento,F,42.0,vinicius.nascimento268@hotmail.com,(84)99847-8811,Londrina,RJ,22-11-05
 858,Murilo,Almeida,M,50.0,murilo.almeida481@gmail.com,Invalido,São Paulo,BA,23-12-09
 859,Marcos,Carvalho,M,64.0,marcos.carvalho577@gmail.com,(40)96269-7054,Campinas,ES,25-03-27
-860,João,Araujo,M,48.0,invalido,(56)91278-9615,Uberlândia,São Paulo,22-09-08
+860,João,Araujo,M,48.0,invalido,(56)91278-9615,Uberlândia,PA,22-09-08
 861,Larissa,Barbosa,M,25.0,larissa.barbosa751@outlook.com,(71)99166-5079,Campo Grande,RS,24-12-18
 862,Fernando,Rodrigues,M,33.0,fernando.rodrigues410@outlook.com,(96)96038-7678,Londrina,BA,22-09-25
 863,Enzo,Barbosa,F,45.0,enzo.barbosa258@gmail.com,Invalido,Salvador,BA,22-11-17
@@ -800,7 +800,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 869,Helena,Barbosa,F,48.0,helena.barbosa720@yahoo.com.br,(26)97807-1050,Vitória,MS,23-12-10
 870,Pedro,Oliveira,M,37.0,pedro.oliveira655@outlook.com,(78)98820-6618,São Paulo,BA,23-02-03
 871,Enzo,Pereira,M,78.0,enzo.pereira463@outlook.com,(15)95816-3130,Campo Grande,SP,24-01-22
-872,Caio,Nascimento,F,33.0,caio.nascimento990@gmail.com,(65)91294-1690,Porto Alegre,Rio,24-01-10
+872,Caio,Nascimento,F,33.0,caio.nascimento990@gmail.com,(65)91294-1690,Porto Alegre,,24-01-10
 873,Helena,Oliveira,M,70.0,invalido,(38)95161-6579,Joinville,MT,23-01-11
 874,Carlos,Dias,F,58.0,carlos.dias660@hotmail.com,(48)91660-2897,Caxias do Sul,ES,24-12-16
 875,Caio,Ferreira,F,39.0,caio.ferreira935@hotmail.com,(89)93033-1874,Niterói,CE,22-02-06
@@ -814,7 +814,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 883,Ana,Silva,F,60.0,invalido,(60)99255-4310,Rio de Janeiro,MS,23-11-17
 885,Fernanda,Ribeiro,F,35.0,fernanda.ribeiro614@outlook.com,(28)97606-7744,Belo Horizonte,MT,22-07-08
 886,Vanessa,Freitas,F,58.0,vanessa.freitas165@gmail.com,(78)99741-5305,Rio de Janeiro,GO,23-04-21
-888,Ana,Gomes,F,25.0,ana.gomes526@outlook.com,(55)97160-2986,Porto Alegre,Minas,23-09-21
+888,Ana,Gomes,F,25.0,ana.gomes526@outlook.com,(55)97160-2986,Porto Alegre,,23-09-21
 889,Pedro,Freitas,F,48.0,pedro.freitas885@yahoo.com.br,Invalido,Niterói,SP,23-04-30
 890,Bernardo,Rodrigues,F,71.0,bernardo.rodrigues950@hotmail.com,(76)93790-4058,Invalido,RJ,24-10-03
 891,Sofia,Araujo,M,70.0,sofia.araujo953@yahoo.com.br,(73)98175-4831,Feira de Santana,MT,23-05-13
@@ -825,7 +825,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 896,Enzo,Correia,F,63.0,enzo.correia306@outlook.com,(19)92376-5645,Joinville,GO,22-03-15
 897,Eduardo,Oliveira,M,40.0,eduardo.oliveira412@yahoo.com.br,(95)94059-1429,Vitória,RJ,22-05-11
 898,Davi,Rocha,F,49.0,davi.rocha154@yahoo.com.br,(27)96244-9456,Fortaleza,SP,24-12-25
-899,Aline,Silva,M,43.0,aline.silva713@outlook.com,(60)97241-6437,Goiânia,Sao Paulo,22-12-10
+899,Aline,Silva,M,43.0,aline.silva713@outlook.com,(60)97241-6437,Goiânia,PA,22-12-10
 900,Bianca,Pereira,F,67.0,bianca.pereira187@yahoo.com.br,(89)95819-4042,Caxias do Sul,MT,25-03-25
 901,Fernando,Costa,M,73.0,invalido,(72)93914-6625,Salvador,BA,23-03-30
 903,Murilo,Dias,F,67.0,murilo.dias199@outlook.com,(76)92220-2854,Cuiabá,RS,24-12-04
@@ -854,7 +854,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 927,Mateus,Lima,M,48.0,mateus.lima843@hotmail.com,(59)92081-1020,Porto Alegre,PR,22-09-20
 928,Sofia,Dias,M,48.0,sofia.dias122@hotmail.com,(52)99841-7007,Salvador,RS,22-02-25
 929,Lucas,Freitas,M,67.0,lucas.freitas953@gmail.com,(40)99107-5553,Campinas,GO,22-06-24
-930,Sofia,Silva,M,44.0,sofia.silva544@gmail.com,(98)91124-4634,Invalido,São Paulo,24-01-14
+930,Sofia,Silva,M,44.0,sofia.silva544@gmail.com,(98)91124-4634,Invalido,PA,24-01-14
 931,Fernando,Dias,F,54.0,fernando.dias915@outlook.com,(55)97094-5670,Feira de Santana,SC,24-09-09
 932,Mateus,Rodrigues,M,48.0,mateus.rodrigues61@gmail.com,Invalido,Feira de Santana,BA,23-07-20
 935,Daniel,Pereira,F,40.0,daniel.pereira721@yahoo.com.br,(82)91089-6468,Porto Alegre,ES,23-02-15
@@ -862,7 +862,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 937,Diego,Ribeiro,M,48.0,diego.ribeiro603@yahoo.com.br,(13)95303-4865,Recife,CE,25-02-26
 938,Henrique,Ribeiro,M,62.0,henrique.ribeiro684@gmail.com,(88)99222-1620,Fortaleza,GO,24-03-19
 939,Aline,Dias,M,58.0,aline.dias605@yahoo.com.br,(82)95794-2672,Feira de Santana,MG,23-03-19
-940,Pedro,Dias,M,48.0,pedro.dias179@outlook.com,(76)95736-2866,Vitória,Minas,22-12-05
+940,Pedro,Dias,M,48.0,pedro.dias179@outlook.com,(76)95736-2866,Vitória,,22-12-05
 941,Davi,Lima,M,19.0,davi.lima840@hotmail.com,(95)91449-5251,Niterói,MT,22-06-21
 942,Bernardo,Teixeira,F,66.0,bernardo.teixeira919@gmail.com,Invalido,Invalido,RJ,25-01-24
 943,Larissa,Almeida,M,52.0,larissa.almeida902@outlook.com,(67)99304-7124,Goiânia,SP,22-02-22
@@ -871,14 +871,14 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 946,Marcos,Melo,F,48.0,marcos.melo922@hotmail.com,(99)94672-6460,Salvador,GO,25-04-04
 947,Davi,Monteiro,F,59.0,davi.monteiro907@yahoo.com.br,(60)99958-5073,Curitiba,SC,24-07-16
 948,Gabriel,Oliveira,M,48.0,gabriel.oliveira164@outlook.com,(46)99890-9957,Invalido,ES,23-03-31
-950,Sofia,Moreira,M,64.0,sofia.moreira895@hotmail.com,(63)91006-6598,Uberlândia,Minas,23-10-20
+950,Sofia,Moreira,M,64.0,sofia.moreira895@hotmail.com,(63)91006-6598,Uberlândia,,23-10-20
 951,Carlos,Gomes,M,39.0,carlos.gomes369@outlook.com,(89)92595-8027,Florianópolis,CE,23-08-16
 952,Tatiane,Martins,F,43.0,tatiane.martins496@gmail.com,(79)99955-1685,Recife,SP,24-03-31
 953,Carolina,Lima,F,24.0,carolina.lima530@gmail.com,(61)97169-5342,Recife,MS,23-05-25
-954,Sofia,Gomes,F,62.0,sofia.gomes519@yahoo.com.br,(52)96575-5279,Florianópolis,Sao Paulo,22-10-04
-955,Bernardo,Pereira,F,21.0,bernardo.pereira253@yahoo.com.br,Invalido,Niterói,São Paulo,23-04-11
+954,Sofia,Gomes,F,62.0,sofia.gomes519@yahoo.com.br,(52)96575-5279,Florianópolis,PA,22-10-04
+955,Bernardo,Pereira,F,21.0,bernardo.pereira253@yahoo.com.br,Invalido,Niterói,PA,23-04-11
 957,Laura,Lima,F,37.0,laura.lima301@yahoo.com.br,(82)98125-8067,Cuiabá,BA,23-06-21
-958,Laura,Nascimento,F,45.0,laura.nascimento349@gmail.com,(51)94616-4150,Campo Grande,SP.,23-05-12
+958,Laura,Nascimento,F,45.0,laura.nascimento349@gmail.com,(51)94616-4150,Campo Grande,SP,23-05-12
 959,Gustavo,Rodrigues,F,69.0,gustavo.rodrigues875@hotmail.com,(24)97496-6472,Vitória,SP,22-01-19
 961,Felipe,Rodrigues,M,63.0,felipe.rodrigues996@outlook.com,(18)91100-9795,São Paulo,BA,24-09-12
 962,Carolina,Lima,M,30.0,carolina.lima904@outlook.com,Invalido,Goiânia,ES,23-06-23
@@ -888,9 +888,9 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 968,Bianca,Barbosa,M,71.0,invalido,(61)98217-8768,Campo Grande,BA,23-12-09
 969,Camila,Rodrigues,F,34.0,camila.rodrigues438@gmail.com,(57)92080-8784,Vitória,ES,25-02-05
 970,Theo,Monteiro,F,59.0,theo.monteiro611@gmail.com,(95)95185-9828,Salvador,BA,25-04-15
-971,Caio,Lima,M,74.0,caio.lima323@yahoo.com.br,(46)98363-3253,Curitiba,Sao Paulo,25-01-11
+971,Caio,Lima,M,74.0,caio.lima323@yahoo.com.br,(46)98363-3253,Curitiba,PA,25-01-11
 972,Ricardo,Teixeira,M,34.0,ricardo.teixeira852@hotmail.com,(83)92690-3473,Niterói,GO,22-03-03
-973,Rafael,Melo,M,31.0,rafael.melo571@hotmail.com,(12)94032-4768,Uberlândia,Santa Catarina,24-08-02
+973,Rafael,Melo,M,31.0,rafael.melo571@hotmail.com,(12)94032-4768,Uberlândia,SC,24-08-02
 974,Paulo,Souza,F,48.0,paulo.souza561@gmail.com,(22)95731-2011,Caxias do Sul,PR,23-05-15
 975,Marcos,Melo,F,50.0,marcos.melo802@hotmail.com,(86)96183-2600,Invalido,SP,24-07-25
 976,Fernando,Pereira,F,18.0,fernando.pereira976@yahoo.com.br,Invalido,Feira de Santana,BA,24-05-14
@@ -909,7 +909,7 @@ cliente_id,nome,sobrenome,sexo,idade,email,telefone,cidade,estado,data_cadastro
 991,Pedro,Gomes,F,48.0,pedro.gomes440@yahoo.com.br,(43)95908-9879,Campo Grande,MG,23-10-14
 992,Ricardo,Ribeiro,F,80.0,ricardo.ribeiro554@gmail.com,(46)91821-7446,Joinville,RJ,24-01-16
 993,Rafael,Ferreira,M,54.0,rafael.ferreira554@outlook.com,Invalido,São Paulo,RS,22-07-24
-994,Carlos,Rocha,F,67.0,carlos.rocha704@gmail.com,(67)97374-1884,Uberlândia,Rs,23-04-24
+994,Carlos,Rocha,F,67.0,carlos.rocha704@gmail.com,(67)97374-1884,Uberlândia,RS,23-04-24
 996,Diego,Ferreira,M,73.0,diego.ferreira356@outlook.com,(67)95628-1718,Cuiabá,RS,22-09-22
 997,Carolina,Souza,F,77.0,carolina.souza936@hotmail.com,Invalido,Londrina,SC,22-01-25
 998,Sofia,Santos,M,18.0,sofia.santos900@hotmail.com,(47)92055-2179,Recife,RJ,23-03-30

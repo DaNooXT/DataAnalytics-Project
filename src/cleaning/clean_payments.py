@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
 
-def clean_payments (df):
-    df_payments = df.copy()
+def clean_payments (df1, df2):
+    df_payments = df1.copy()
+    df_orders = df2.copy()
 
         
     df_payments['parcelas'] = (
@@ -69,5 +70,9 @@ def clean_payments (df):
         df_payments['status']
         .fillna("CANCELADO")
     )
+
+    df_payments = df_payments[
+        df_payments["pedido_id"].isin(df_orders["pedido_id"])
+    ].copy()
 
     return df_payments
